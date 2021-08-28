@@ -1,0 +1,127 @@
+{
+	"Brawler": [
+		{
+			"name": "Attract Brawlers",
+			"addedHeadline": "",
+			"addedArticle": "",
+			"addedImage": "Stats/Brawler",
+			"completeHeadline": "",
+			"completeArticle": "",
+			"completeImage": "Stats/Brawler",
+			"type": "AttractAdventurers",
+			"config" : {}
+		}, {
+			"name": "Build Blacksmiths",
+			"addedHeadline": "",
+			"addedArticle": "",
+			"addedImage": "Buildings/Blacksmith",
+			"completeHeadline": "",
+			"completeArticle": "",
+			"completeImage": "Buildings/Blacksmith",
+			"type": "ConstructBuildingType",
+			"config": {
+				"buildingType": "Blacksmith"
+			}
+		}
+	],
+	"Outrider": [
+		{
+			"name": "Attract Outriders",
+			"addedHeadline": "",
+			"addedArticle": "",
+			"addedImage": "",
+			"completeHeadline": "",
+			"completeArticle": "",
+			"completeImage": "",
+			"type": "AttractAdventurers",
+			"config" : {}
+		}, {
+			"name": "Build Herbalists",
+			"addedHeadline": "",
+			"addedArticle": "",
+			"addedImage": "",
+			"completeHeadline": "",
+			"completeArticle": "",
+			"completeImage": "",
+			"type": "ConstructBuildingType",
+			"config": {
+				"buildingType": "Herbalist"
+			}
+		}
+	],
+	"Performer": [
+		{
+			"name": "Attract Performers",
+			"addedHeadline": "",
+			"addedArticle": "",
+			"addedImage": "",
+			"completeHeadline": "",
+			"completeArticle": "",
+			"completeImage": "",
+			"type": "AttractAdventurers",
+			"config" : {}
+		}, {
+			"name": "Build Taverns",
+			"addedHeadline": "",
+			"addedArticle": "",
+			"addedImage": "",
+			"completeHeadline": "",
+			"completeArticle": "",
+			"completeImage": "",
+			"type": "ConstructBuildingType",
+			"config": {
+				"buildingType": "Tavern"
+			}
+		}
+	],
+	"Diviner": [
+		{
+			"name": "Attract Diviners",
+			"addedHeadline": "",
+			"addedArticle": "",
+			"addedImage": "",
+			"completeHeadline": "",
+			"completeArticle": "",
+			"completeImage": "",
+			"type": "AttractAdventurers",
+			"config" : {}
+		}, {
+			"name": "Build Shrines",
+			"addedHeadline": "More Books Please",
+			"addedArticle": "TODO: Request for more libraries",
+			"addedImage": "",
+			"completeHeadline": "This is a Good Amount of Books",
+			"completeArticle": "TODO: Request complete description",
+			"completeImage": "",
+			"type": "ConstructBuildingType",
+			"config": {
+				"buildingType": "Shrine"
+			}
+		}
+	],
+	"Arcanist": [
+		{
+			"name": "Attract Arcanists",
+			"addedHeadline": "",
+			"addedArticle": "",
+			"addedImage": "",
+			"completeHeadline": "",
+			"completeArticle": "",
+			"completeImage": "",
+			"type": "AttractAdventurers",
+			"config" : {}
+		}, {
+			"name": "Build Libraries",
+			"addedHeadline": "More Books Please",
+			"addedArticle": "TODO: Request for more libraries",
+			"addedImage": "",
+			"completeHeadline": "This is a Good Amount of Books",
+			"completeArticle": "TODO: Request complete description",
+			"completeImage": "",
+			"type": "ConstructBuildingType",
+			"config": {
+				"buildingType": "Library"
+			}
+		}
+	]
+}

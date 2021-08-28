@@ -1,9 +1,9 @@
-﻿using Managers;
+﻿using Events;
 using UnityEngine;
 using Utilities;
 using Event = Events.Event;
 
-namespace GuildRequests
+namespace GuildRequests.Templates
 {
     public abstract class Request : ScriptableObject
     {
@@ -22,5 +22,7 @@ namespace GuildRequests
         
         public abstract void Start();
         public abstract void Complete();
+
+        public virtual void Configure(EventCreator.RequestConfig config) {}
     }
 }

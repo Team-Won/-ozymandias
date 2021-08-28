@@ -1,0 +1,57 @@
+[
+	{
+		"name": "Introduction",
+		"script": [
+			"Hey you, you're finally awake.",
+			"I found you washed up on the shore while I was uhh... cleaning up the ruins of the town that used to be here *cough*",
+			"There was a bustling adventuring town here a short while back, got completely overrun. Now just that ruined guild hall is all that's left.",
+			"Oh! Are you the replacement regional manager that head office was gonna send down? You know what, don't answer, you are now.",
+			"I could never run it myself, too much paperwork. But if you were to run the town and leave me to... clean.. then maybe we could work something out.",
+			"Let's start you off with the basics..."
+		],
+		"outcome": "(camera tutorial)"
+	},
+	{
+		"name": "Clear",
+		"script": [
+			"Ok, now that's out of the way let's get this show on the road!",
+			"Start by clearing the ruin of that guild hall over there. You can do it by selecting the building and clicking the destroy button."
+		],
+		"outcome": "(Highlight guild hall ruin in gold, trigger guild hall unlock when cleared)"
+	},
+	{
+		"name": "Place Guild Hall",
+		"script": [
+			"Great! You've just discovered the design for the guild hall, looting ruins can get you all sorts of stuff if you're lucky... I hear",
+			"Now that you've "
+		],
+		"outcome": "(Guild hall card shows up, player places it in empty spot)"
+	},
+	{
+		"name": "Place 3 Buildings",
+		"script": [
+			"A guild hall is a shining beacon of adventure and wealth for the world to see.",
+			"It's also a great target for all the bandits and monsters out there, but we'll burn that bridge when we come to it",
+			"For now, lets get our town set up with some basics. I've given you some building designs to get you started",
+			"Clear some of the highlighted terrain first and then place buildings near the guild hall"
+		],
+		"outcome": "(All cards show up, clearable terrain around the guild hall highlighted in gold)"
+	},
+	{
+		"name": "Attract 10 Adventurers",
+		"script": [
+			"Alright, enough with the freebies, these buildings cost money to make you know!",
+			"The good news is, now that we're set up, adventurers will start showing up anytime now, and adventuring costs is an expensive profession.",
+			"There are five kinds of adventurer, each represented by their own guild. Make each one happy by placing buildings they like to increase the chance they'll show up.",
+			"They'll spending all their loot on supplies each turn, giving use some wealth to build more. It truly is a vicious cycle... Profitable though."
+		],
+		"outcome": "(All UI shows supplies, free play with no complex events until 10 Adventurers reached. After, the re)"
+	},
+	{
+		"name": "Complete Quest",
+		"script": [
+			""
+		],
+		"outcome": "()"
+	}
+]

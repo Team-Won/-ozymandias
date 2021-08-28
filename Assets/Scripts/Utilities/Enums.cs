@@ -65,6 +65,29 @@
         ArcanistRequest = 12
     }
 
+    public enum OutcomeType
+    {
+        Debug,
+        FlavourText,
+        ChainEvent,
+        AdventurersAdded,
+        AdventurersRemoved,
+        BuildingDamaged,
+        CardUnlocked,
+        GameOver,
+        ModifierAdded,
+        ModifierRemoved,
+        QuestAdded,
+        QuestCompleted,
+        RequestAdded,
+        RequestCompleted
+    }
+
+    public enum RequestType
+    {
+        
+    }
+
     public enum Guild
     {
         Brawler,

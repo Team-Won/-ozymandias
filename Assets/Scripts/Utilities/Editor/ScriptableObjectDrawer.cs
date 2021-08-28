@@ -29,7 +29,7 @@ namespace Utilities.Editor
                 // Draw object properties
                 if (!_editor)
                     UnityEditor.Editor.CreateCachedEditor(property.objectReferenceValue, null, ref _editor);
-                _editor.OnInspectorGUI();
+                _editor?.OnInspectorGUI();
          
                 // Set indent back to what it was
                 EditorGUI.indentLevel--;

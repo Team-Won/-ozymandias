@@ -32,7 +32,7 @@ namespace Events
 
         public string MakeChoice(int choice)
         {
-            return Outcome.Execute(choices[choice].outcomes, true);
+            return Outcome.Execute(choices[choice].outcomes);
         }
 
         [Button()] // Debug to test specific events

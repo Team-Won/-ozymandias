@@ -1,4 +1,5 @@
 ﻿using GuildRequests;
+using GuildRequests.Templates;
 using UnityEngine;
 using static Managers.GameManager;
 
@@ -8,7 +9,7 @@ namespace Events.Outcomes
 
     public class RequestAdded : Outcome
     {
-        [SerializeField] private Request request;
+        public Request request;
     
         public override bool Execute()
         {

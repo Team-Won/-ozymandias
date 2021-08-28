@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &-452365766680402185
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 068e6582b34a4d43a994376b4d046ac8, type: 3}
+  m_Name: Added Outcome
+  m_EditorClassIdentifier: 
+  customDescription: 
+  request: {fileID: 11400000, guid: 54a03d06aa4c4c243a0d8d029e2d1b5d, type: 2}
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b6939337205b1e8429c312bf3490cf8a, type: 3}
+  m_Name: Build Herbalists Added
+  m_EditorClassIdentifier: 
+  headline: 
+  article: 
+  image: {fileID: 0}
+  type: 9
+  headliner: 0
+  outcomes:
+  - {fileID: -452365766680402185}
+  choices: []
+  buildingToUnlock: {fileID: 0}

@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
+using GuildRequests.Templates;
 using UnityEngine;
 using Managers;
 using UnityEngine.AddressableAssets;

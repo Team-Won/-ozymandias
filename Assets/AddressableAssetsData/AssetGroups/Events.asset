@@ -22,1226 +22,1310 @@ MonoBehaviour:
     m_ReadOnly: 0
     m_SerializedLabels:
     - event
-    m_MainAsset: {fileID: 11400000, guid: ee4b2bed0347a7b4299a8c9d77f96e61, type: 2}
-    m_TargetAsset: {fileID: 11400000, guid: ee4b2bed0347a7b4299a8c9d77f96e61, type: 2}
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
   - m_GUID: 08eb48382df974a4da67eb35aba6f7ce
     m_Address: Game Over Flavour 1
     m_ReadOnly: 0
     m_SerializedLabels:
     - event
-    m_MainAsset: {fileID: 11400000, guid: 08eb48382df974a4da67eb35aba6f7ce, type: 2}
-    m_TargetAsset: {fileID: 11400000, guid: 08eb48382df974a4da67eb35aba6f7ce, type: 2}
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
   - m_GUID: d44bd082e6335a7448833277ba25ac79
     m_Address: Game Over Flavour 2
     m_ReadOnly: 0
     m_SerializedLabels:
     - event
-    m_MainAsset: {fileID: 11400000, guid: d44bd082e6335a7448833277ba25ac79, type: 2}
-    m_TargetAsset: {fileID: 11400000, guid: d44bd082e6335a7448833277ba25ac79, type: 2}
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
   - m_GUID: 9f4099dd38d216b45a9ad07aaabfa154
     m_Address: Guildhall Destroyed
     m_ReadOnly: 0
     m_SerializedLabels:
     - event
-    m_MainAsset: {fileID: 11400000, guid: 9f4099dd38d216b45a9ad07aaabfa154, type: 2}
-    m_TargetAsset: {fileID: 11400000, guid: 9f4099dd38d216b45a9ad07aaabfa154, type: 2}
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
   - m_GUID: b251d19b37a89fd498ea3e386c29d6d0
     m_Address: Pull Support
     m_ReadOnly: 0
     m_SerializedLabels:
     - event
-    m_MainAsset: {fileID: 11400000, guid: b251d19b37a89fd498ea3e386c29d6d0, type: 2}
-    m_TargetAsset: {fileID: 11400000, guid: b251d19b37a89fd498ea3e386c29d6d0, type: 2}
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
   - m_GUID: 6759791c339314e47b6f29e311ed7cc0
     m_Address: Bad Bard
     m_ReadOnly: 0
     m_SerializedLabels:
     - event
-    m_MainAsset: {fileID: 11400000, guid: 6759791c339314e47b6f29e311ed7cc0, type: 2}
-    m_TargetAsset: {fileID: 11400000, guid: 6759791c339314e47b6f29e311ed7cc0, type: 2}
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
   - m_GUID: 4a41d687355c5774c992a8bbbb570148
     m_Address: Goat Man
     m_ReadOnly: 0
     m_SerializedLabels:
     - event
-    m_MainAsset: {fileID: 11400000, guid: 4a41d687355c5774c992a8bbbb570148, type: 2}
-    m_TargetAsset: {fileID: 11400000, guid: 4a41d687355c5774c992a8bbbb570148, type: 2}
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
   - m_GUID: 194bedbfad2589a4a81c53920ba36ffd
     m_Address: Kobolds 1
     m_ReadOnly: 0
     m_SerializedLabels:
     - event
-    m_MainAsset: {fileID: 11400000, guid: 194bedbfad2589a4a81c53920ba36ffd, type: 2}
-    m_TargetAsset: {fileID: 11400000, guid: 194bedbfad2589a4a81c53920ba36ffd, type: 2}
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
   - m_GUID: 154f033a29b0516499565ad1ef0e6c93
     m_Address: Kobolds 2
     m_ReadOnly: 0
     m_SerializedLabels:
     - event
-    m_MainAsset: {fileID: 11400000, guid: 154f033a29b0516499565ad1ef0e6c93, type: 2}
-    m_TargetAsset: {fileID: 11400000, guid: 154f033a29b0516499565ad1ef0e6c93, type: 2}
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
   - m_GUID: a71aeeb56b784cb47916269a090e8837
     m_Address: Magic Orb
     m_ReadOnly: 0
     m_SerializedLabels:
     - event
-    m_MainAsset: {fileID: 11400000, guid: a71aeeb56b784cb47916269a090e8837, type: 2}
-    m_TargetAsset: {fileID: 11400000, guid: a71aeeb56b784cb47916269a090e8837, type: 2}
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
   - m_GUID: 64d4623cb01eace49b56cc85fbe0d7e0
     m_Address: Not Shrek 1
     m_ReadOnly: 0
     m_SerializedLabels:
     - event
-    m_MainAsset: {fileID: 11400000, guid: 64d4623cb01eace49b56cc85fbe0d7e0, type: 2}
-    m_TargetAsset: {fileID: 11400000, guid: 64d4623cb01eace49b56cc85fbe0d7e0, type: 2}
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
   - m_GUID: 73751d3ffe2510d4192ad1d558d38a2e
     m_Address: Pier Pressure
     m_ReadOnly: 0
     m_SerializedLabels:
     - event
-    m_MainAsset: {fileID: 11400000, guid: 73751d3ffe2510d4192ad1d558d38a2e, type: 2}
-    m_TargetAsset: {fileID: 11400000, guid: 73751d3ffe2510d4192ad1d558d38a2e, type: 2}
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
   - m_GUID: dc4c163476c035249af7c73fd3519e69
     m_Address: Not Shrek 2
     m_ReadOnly: 0
     m_SerializedLabels:
     - event
-    m_MainAsset: {fileID: 11400000, guid: dc4c163476c035249af7c73fd3519e69, type: 2}
-    m_TargetAsset: {fileID: 11400000, guid: dc4c163476c035249af7c73fd3519e69, type: 2}
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
   - m_GUID: 73eb67b24d474c24195e697e694a1a45
     m_Address: The Drunken Master
     m_ReadOnly: 0
     m_SerializedLabels:
     - event
-    m_MainAsset: {fileID: 11400000, guid: 73eb67b24d474c24195e697e694a1a45, type: 2}
-    m_TargetAsset: {fileID: 11400000, guid: 73eb67b24d474c24195e697e694a1a45, type: 2}
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
   - m_GUID: cf4df977f9d7f9f4591cd57d601f4719
     m_Address: Tragic Backstory
     m_ReadOnly: 0
     m_SerializedLabels:
     - event
-    m_MainAsset: {fileID: 11400000, guid: cf4df977f9d7f9f4591cd57d601f4719, type: 2}
-    m_TargetAsset: {fileID: 11400000, guid: cf4df977f9d7f9f4591cd57d601f4719, type: 2}
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
   - m_GUID: bbcad6b4c0451ad418a67d95029ec3a8
     m_Address: Trial by Monster
     m_ReadOnly: 0
     m_SerializedLabels:
     - event
-    m_MainAsset: {fileID: 11400000, guid: bbcad6b4c0451ad418a67d95029ec3a8, type: 2}
-    m_TargetAsset: {fileID: 11400000, guid: bbcad6b4c0451ad418a67d95029ec3a8, type: 2}
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
   - m_GUID: 5f5ffc8ba483c22448b6e927192c9d11
     m_Address: World's Gobliniest Human
     m_ReadOnly: 0
     m_SerializedLabels:
     - event
-    m_MainAsset: {fileID: 11400000, guid: 5f5ffc8ba483c22448b6e927192c9d11, type: 2}
-    m_TargetAsset: {fileID: 11400000, guid: 5f5ffc8ba483c22448b6e927192c9d11, type: 2}
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
   - m_GUID: aaa259db6f8eb9b43a0b7c201832b1e2
     m_Address: Adventurer Training
     m_ReadOnly: 0
     m_SerializedLabels:
     - event
-    m_MainAsset: {fileID: 11400000, guid: aaa259db6f8eb9b43a0b7c201832b1e2, type: 2}
-    m_TargetAsset: {fileID: 11400000, guid: aaa259db6f8eb9b43a0b7c201832b1e2, type: 2}
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
   - m_GUID: 0ff150cc0f8c6e147a3c8b47341b6fa0
     m_Address: Blood
     m_ReadOnly: 0
     m_SerializedLabels:
     - event
-    m_MainAsset: {fileID: 11400000, guid: 0ff150cc0f8c6e147a3c8b47341b6fa0, type: 2}
-    m_TargetAsset: {fileID: 11400000, guid: 0ff150cc0f8c6e147a3c8b47341b6fa0, type: 2}
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
   - m_GUID: 476898240d49cec4cbe7b3e1b6f8b458
     m_Address: Curse
     m_ReadOnly: 0
     m_SerializedLabels:
     - event
-    m_MainAsset: {fileID: 11400000, guid: 476898240d49cec4cbe7b3e1b6f8b458, type: 2}
-    m_TargetAsset: {fileID: 11400000, guid: 476898240d49cec4cbe7b3e1b6f8b458, type: 2}
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
   - m_GUID: a31e6df5420cac247b462fae7eafe33c
     m_Address: Don't Worry
     m_ReadOnly: 0
     m_SerializedLabels:
     - event
-    m_MainAsset: {fileID: 11400000, guid: a31e6df5420cac247b462fae7eafe33c, type: 2}
-    m_TargetAsset: {fileID: 11400000, guid: a31e6df5420cac247b462fae7eafe33c, type: 2}
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
   - m_GUID: 157e656f75180594f9fe9be7f8307f43
     m_Address: Focus Crystal
     m_ReadOnly: 0
     m_SerializedLabels:
     - event
-    m_MainAsset: {fileID: 11400000, guid: 157e656f75180594f9fe9be7f8307f43, type: 2}
-    m_TargetAsset: {fileID: 11400000, guid: 157e656f75180594f9fe9be7f8307f43, type: 2}
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
   - m_GUID: dc85d5f4599002f438f5c6e182f5bdaf
     m_Address: Gemstones
     m_ReadOnly: 0
     m_SerializedLabels:
     - event
-    m_MainAsset: {fileID: 11400000, guid: dc85d5f4599002f438f5c6e182f5bdaf, type: 2}
-    m_TargetAsset: {fileID: 11400000, guid: dc85d5f4599002f438f5c6e182f5bdaf, type: 2}
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
   - m_GUID: 04328f6b02a2f924cab5c38974f7edad
     m_Address: Hot Elves
     m_ReadOnly: 0
     m_SerializedLabels:
     - event
-    m_MainAsset: {fileID: 11400000, guid: 04328f6b02a2f924cab5c38974f7edad, type: 2}
-    m_TargetAsset: {fileID: 11400000, guid: 04328f6b02a2f924cab5c38974f7edad, type: 2}
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
   - m_GUID: 3debfbb12c94ca54398e0fca8c707f6e
     m_Address: Lesser Potions
     m_ReadOnly: 0
     m_SerializedLabels:
     - event
-    m_MainAsset: {fileID: 11400000, guid: 3debfbb12c94ca54398e0fca8c707f6e, type: 2}
-    m_TargetAsset: {fileID: 11400000, guid: 3debfbb12c94ca54398e0fca8c707f6e, type: 2}
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
   - m_GUID: c890be5d46a6f034ca5f462694429ae4
     m_Address: Malecrax
     m_ReadOnly: 0
     m_SerializedLabels:
     - event
-    m_MainAsset: {fileID: 11400000, guid: c890be5d46a6f034ca5f462694429ae4, type: 2}
-    m_TargetAsset: {fileID: 11400000, guid: c890be5d46a6f034ca5f462694429ae4, type: 2}
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
   - m_GUID: c75543af2a93e6041b667b5744910f24
     m_Address: Pixies
     m_ReadOnly: 0
     m_SerializedLabels:
     - event
-    m_MainAsset: {fileID: 11400000, guid: c75543af2a93e6041b667b5744910f24, type: 2}
-    m_TargetAsset: {fileID: 11400000, guid: c75543af2a93e6041b667b5744910f24, type: 2}
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
   - m_GUID: 016d6064d0ad0914b990f135ea3322f6
     m_Address: Portal
     m_ReadOnly: 0
     m_SerializedLabels:
     - event
-    m_MainAsset: {fileID: 11400000, guid: 016d6064d0ad0914b990f135ea3322f6, type: 2}
-    m_TargetAsset: {fileID: 11400000, guid: 016d6064d0ad0914b990f135ea3322f6, type: 2}
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
   - m_GUID: a839cbc813daeaa44a24b1a6089ae39f
     m_Address: Psychic
     m_ReadOnly: 0
     m_SerializedLabels:
     - event
-    m_MainAsset: {fileID: 11400000, guid: a839cbc813daeaa44a24b1a6089ae39f, type: 2}
-    m_TargetAsset: {fileID: 11400000, guid: a839cbc813daeaa44a24b1a6089ae39f, type: 2}
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
   - m_GUID: 332a4881bd459de4ba531903536532bf
     m_Address: Soothsayer
     m_ReadOnly: 0
     m_SerializedLabels:
     - event
-    m_MainAsset: {fileID: 11400000, guid: 332a4881bd459de4ba531903536532bf, type: 2}
-    m_TargetAsset: {fileID: 11400000, guid: 332a4881bd459de4ba531903536532bf, type: 2}
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
   - m_GUID: 49650091935faf844bc7e2933b62f288
     m_Address: Target Practice
     m_ReadOnly: 0
     m_SerializedLabels:
     - event
-    m_MainAsset: {fileID: 11400000, guid: 49650091935faf844bc7e2933b62f288, type: 2}
-    m_TargetAsset: {fileID: 11400000, guid: 49650091935faf844bc7e2933b62f288, type: 2}
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
   - m_GUID: 7634f954f77302242b900ba1c9cd828a
     m_Address: Taxes
     m_ReadOnly: 0
     m_SerializedLabels:
     - event
-    m_MainAsset: {fileID: 11400000, guid: 7634f954f77302242b900ba1c9cd828a, type: 2}
-    m_TargetAsset: {fileID: 11400000, guid: 7634f954f77302242b900ba1c9cd828a, type: 2}
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
   - m_GUID: f95e9e85a77f76d4e91bf992c937c7ce
     m_Address: Bandit Choice
     m_ReadOnly: 0
     m_SerializedLabels:
     - event
-    m_MainAsset: {fileID: 11400000, guid: f95e9e85a77f76d4e91bf992c937c7ce, type: 2}
-    m_TargetAsset: {fileID: 11400000, guid: f95e9e85a77f76d4e91bf992c937c7ce, type: 2}
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
   - m_GUID: 7a7400d46e3241c4490f74a911415a30
     m_Address: Magic Wood
     m_ReadOnly: 0
     m_SerializedLabels:
     - event
-    m_MainAsset: {fileID: 11400000, guid: 7a7400d46e3241c4490f74a911415a30, type: 2}
-    m_TargetAsset: {fileID: 11400000, guid: 7a7400d46e3241c4490f74a911415a30, type: 2}
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
   - m_GUID: 5b030ceeeac53f946bfec49bede9e502
     m_Address: Rat Shortage
     m_ReadOnly: 0
     m_SerializedLabels:
     - event
-    m_MainAsset: {fileID: 11400000, guid: 5b030ceeeac53f946bfec49bede9e502, type: 2}
-    m_TargetAsset: {fileID: 11400000, guid: 5b030ceeeac53f946bfec49bede9e502, type: 2}
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
   - m_GUID: b63c055a2a7092c4f9007f06f258b5d3
     m_Address: Troll Union
     m_ReadOnly: 0
     m_SerializedLabels:
     - event
-    m_MainAsset: {fileID: 11400000, guid: b63c055a2a7092c4f9007f06f258b5d3, type: 2}
-    m_TargetAsset: {fileID: 11400000, guid: b63c055a2a7092c4f9007f06f258b5d3, type: 2}
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
   - m_GUID: 9717c1cab66b5474889b4aa0ea7ce3cb
     m_Address: Goblin Raid 1
     m_ReadOnly: 0
     m_SerializedLabels:
     - event
-    m_MainAsset: {fileID: 11400000, guid: 9717c1cab66b5474889b4aa0ea7ce3cb, type: 2}
-    m_TargetAsset: {fileID: 11400000, guid: 9717c1cab66b5474889b4aa0ea7ce3cb, type: 2}
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
   - m_GUID: 3972f3bca0cb42d47aaa7acb0fd1fad6
     m_Address: Goblin Raid 2
     m_ReadOnly: 0
     m_SerializedLabels:
     - event
-    m_MainAsset: {fileID: 11400000, guid: 3972f3bca0cb42d47aaa7acb0fd1fad6, type: 2}
-    m_TargetAsset: {fileID: 11400000, guid: 3972f3bca0cb42d47aaa7acb0fd1fad6, type: 2}
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
   - m_GUID: fc10cf272b9b1954e90c197558f616ee
     m_Address: Mirror Mirror 1
     m_ReadOnly: 0
     m_SerializedLabels:
     - event
-    m_MainAsset: {fileID: 11400000, guid: fc10cf272b9b1954e90c197558f616ee, type: 2}
-    m_TargetAsset: {fileID: 11400000, guid: fc10cf272b9b1954e90c197558f616ee, type: 2}
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
   - m_GUID: 11d6f1ac4fc7f984db0c8155be962fae
     m_Address: Mirror Mirror 2
     m_ReadOnly: 0
     m_SerializedLabels:
     - event
-    m_MainAsset: {fileID: 11400000, guid: 11d6f1ac4fc7f984db0c8155be962fae, type: 2}
-    m_TargetAsset: {fileID: 11400000, guid: 11d6f1ac4fc7f984db0c8155be962fae, type: 2}
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
   - m_GUID: 4d61b194a1db97b42b855c855b8a2e21
     m_Address: Amputation
     m_ReadOnly: 0
     m_SerializedLabels:
     - event
-    m_MainAsset: {fileID: 11400000, guid: 4d61b194a1db97b42b855c855b8a2e21, type: 2}
-    m_TargetAsset: {fileID: 11400000, guid: 4d61b194a1db97b42b855c855b8a2e21, type: 2}
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
   - m_GUID: d6819dabf491b3d4da7145d1635c8179
     m_Address: Magic Gate
     m_ReadOnly: 0
     m_SerializedLabels:
     - event
-    m_MainAsset: {fileID: 11400000, guid: d6819dabf491b3d4da7145d1635c8179, type: 2}
-    m_TargetAsset: {fileID: 11400000, guid: d6819dabf491b3d4da7145d1635c8179, type: 2}
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
   - m_GUID: 6c094ee426544d04e862c7029286a3e7
     m_Address: Neck Snapping
     m_ReadOnly: 0
     m_SerializedLabels:
     - event
-    m_MainAsset: {fileID: 11400000, guid: 6c094ee426544d04e862c7029286a3e7, type: 2}
-    m_TargetAsset: {fileID: 11400000, guid: 6c094ee426544d04e862c7029286a3e7, type: 2}
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
   - m_GUID: 96a3dff36cb3a574bbc182af090d9f77
     m_Address: Quicksave
     m_ReadOnly: 0
     m_SerializedLabels:
     - event
-    m_MainAsset: {fileID: 11400000, guid: 96a3dff36cb3a574bbc182af090d9f77, type: 2}
-    m_TargetAsset: {fileID: 11400000, guid: 96a3dff36cb3a574bbc182af090d9f77, type: 2}
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
   - m_GUID: 78cadf97fee5c1b4a9dbcd6e9f0a0ddf
     m_Address: Thief
     m_ReadOnly: 0
     m_SerializedLabels:
     - event
-    m_MainAsset: {fileID: 11400000, guid: 78cadf97fee5c1b4a9dbcd6e9f0a0ddf, type: 2}
-    m_TargetAsset: {fileID: 11400000, guid: 78cadf97fee5c1b4a9dbcd6e9f0a0ddf, type: 2}
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
   - m_GUID: a261299f0c0b6b74e8329472b2c63aae
     m_Address: Beetles
     m_ReadOnly: 0
     m_SerializedLabels:
     - event
-    m_MainAsset: {fileID: 11400000, guid: a261299f0c0b6b74e8329472b2c63aae, type: 2}
-    m_TargetAsset: {fileID: 11400000, guid: a261299f0c0b6b74e8329472b2c63aae, type: 2}
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
   - m_GUID: dc6572f11e72d374db76125c9afe01a9
     m_Address: Bread Swords
     m_ReadOnly: 0
     m_SerializedLabels:
     - event
-    m_MainAsset: {fileID: 11400000, guid: dc6572f11e72d374db76125c9afe01a9, type: 2}
-    m_TargetAsset: {fileID: 11400000, guid: dc6572f11e72d374db76125c9afe01a9, type: 2}
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
   - m_GUID: ff94b684ea0e4e74e95c340170553632
     m_Address: D&D
     m_ReadOnly: 0
     m_SerializedLabels:
     - event
-    m_MainAsset: {fileID: 11400000, guid: ff94b684ea0e4e74e95c340170553632, type: 2}
-    m_TargetAsset: {fileID: 11400000, guid: ff94b684ea0e4e74e95c340170553632, type: 2}
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
   - m_GUID: 0bd4d65b6eda7464a818a655c0e1982d
     m_Address: Doomsday Jamie
     m_ReadOnly: 0
     m_SerializedLabels:
     - event
-    m_MainAsset: {fileID: 11400000, guid: 0bd4d65b6eda7464a818a655c0e1982d, type: 2}
-    m_TargetAsset: {fileID: 11400000, guid: 0bd4d65b6eda7464a818a655c0e1982d, type: 2}
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
   - m_GUID: acd1e69b2ad86674cb91b0da93d20baf
     m_Address: Esquilax
     m_ReadOnly: 0
     m_SerializedLabels:
     - event
-    m_MainAsset: {fileID: 11400000, guid: acd1e69b2ad86674cb91b0da93d20baf, type: 2}
-    m_TargetAsset: {fileID: 11400000, guid: acd1e69b2ad86674cb91b0da93d20baf, type: 2}
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
   - m_GUID: 7fef47965127eb143988eded7060c450
     m_Address: Feeding Day
     m_ReadOnly: 0
     m_SerializedLabels:
     - event
-    m_MainAsset: {fileID: 11400000, guid: 7fef47965127eb143988eded7060c450, type: 2}
-    m_TargetAsset: {fileID: 11400000, guid: 7fef47965127eb143988eded7060c450, type: 2}
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
   - m_GUID: 9affd1ec09a2a3d47a528b5ca920c155
     m_Address: Floating Rogue
     m_ReadOnly: 0
     m_SerializedLabels:
     - event
-    m_MainAsset: {fileID: 11400000, guid: 9affd1ec09a2a3d47a528b5ca920c155, type: 2}
-    m_TargetAsset: {fileID: 11400000, guid: 9affd1ec09a2a3d47a528b5ca920c155, type: 2}
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
   - m_GUID: cd91219b7e0a10c4ca195b00b8ac67be
     m_Address: Gemstones
     m_ReadOnly: 0
     m_SerializedLabels:
     - event
-    m_MainAsset: {fileID: 11400000, guid: cd91219b7e0a10c4ca195b00b8ac67be, type: 2}
-    m_TargetAsset: {fileID: 11400000, guid: cd91219b7e0a10c4ca195b00b8ac67be, type: 2}
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
   - m_GUID: 3caf1189bf7e2ee4292814eecfe43268
     m_Address: Humming Lights
     m_ReadOnly: 0
     m_SerializedLabels:
     - event
-    m_MainAsset: {fileID: 11400000, guid: 3caf1189bf7e2ee4292814eecfe43268, type: 2}
-    m_TargetAsset: {fileID: 11400000, guid: 3caf1189bf7e2ee4292814eecfe43268, type: 2}
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
   - m_GUID: 4b588f460281fec4cba85c9568e365de
     m_Address: Kitten Inn
     m_ReadOnly: 0
     m_SerializedLabels:
     - event
-    m_MainAsset: {fileID: 11400000, guid: 4b588f460281fec4cba85c9568e365de, type: 2}
-    m_TargetAsset: {fileID: 11400000, guid: 4b588f460281fec4cba85c9568e365de, type: 2}
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
   - m_GUID: 9d88c6d5c14623846890df2725c8c259
     m_Address: Magic Dust
     m_ReadOnly: 0
     m_SerializedLabels:
     - event
-    m_MainAsset: {fileID: 11400000, guid: 9d88c6d5c14623846890df2725c8c259, type: 2}
-    m_TargetAsset: {fileID: 11400000, guid: 9d88c6d5c14623846890df2725c8c259, type: 2}
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
   - m_GUID: 18e65935d1a31e14096d735749e94601
     m_Address: Malecrax
     m_ReadOnly: 0
     m_SerializedLabels:
     - event
-    m_MainAsset: {fileID: 11400000, guid: 18e65935d1a31e14096d735749e94601, type: 2}
-    m_TargetAsset: {fileID: 11400000, guid: 18e65935d1a31e14096d735749e94601, type: 2}
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
   - m_GUID: 6a3409cd659247941ad7e8e4440685c5
     m_Address: Metagaming
     m_ReadOnly: 0
     m_SerializedLabels:
     - event
-    m_MainAsset: {fileID: 11400000, guid: 6a3409cd659247941ad7e8e4440685c5, type: 2}
-    m_TargetAsset: {fileID: 11400000, guid: 6a3409cd659247941ad7e8e4440685c5, type: 2}
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
   - m_GUID: 3774e9e2cfc18e140b74bd7e239c3ec2
     m_Address: Mimic Sword
     m_ReadOnly: 0
     m_SerializedLabels:
     - event
-    m_MainAsset: {fileID: 11400000, guid: 3774e9e2cfc18e140b74bd7e239c3ec2, type: 2}
-    m_TargetAsset: {fileID: 11400000, guid: 3774e9e2cfc18e140b74bd7e239c3ec2, type: 2}
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
   - m_GUID: 3cf7390fd2d4d224988c9552f44956d8
     m_Address: Murder Mystery
     m_ReadOnly: 0
     m_SerializedLabels:
     - event
-    m_MainAsset: {fileID: 11400000, guid: 3cf7390fd2d4d224988c9552f44956d8, type: 2}
-    m_TargetAsset: {fileID: 11400000, guid: 3cf7390fd2d4d224988c9552f44956d8, type: 2}
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
   - m_GUID: c94d49a4b5202384da286d446a6239af
     m_Address: Pocket Pub
     m_ReadOnly: 0
     m_SerializedLabels:
     - event
-    m_MainAsset: {fileID: 11400000, guid: c94d49a4b5202384da286d446a6239af, type: 2}
-    m_TargetAsset: {fileID: 11400000, guid: c94d49a4b5202384da286d446a6239af, type: 2}
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
   - m_GUID: a2cbf1cf38f093d40b259341618f7af1
     m_Address: Potion Buyer
     m_ReadOnly: 0
     m_SerializedLabels:
     - event
-    m_MainAsset: {fileID: 11400000, guid: a2cbf1cf38f093d40b259341618f7af1, type: 2}
-    m_TargetAsset: {fileID: 11400000, guid: a2cbf1cf38f093d40b259341618f7af1, type: 2}
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
   - m_GUID: 3fb721e84af4f7d4093fd2ca39152064
     m_Address: Potion Seller
     m_ReadOnly: 0
     m_SerializedLabels:
     - event
-    m_MainAsset: {fileID: 11400000, guid: 3fb721e84af4f7d4093fd2ca39152064, type: 2}
-    m_TargetAsset: {fileID: 11400000, guid: 3fb721e84af4f7d4093fd2ca39152064, type: 2}
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
   - m_GUID: 3ccb6dbe9de6cc2439af82f36a6324cf
     m_Address: Rat Rave
     m_ReadOnly: 0
     m_SerializedLabels:
     - event
-    m_MainAsset: {fileID: 11400000, guid: 3ccb6dbe9de6cc2439af82f36a6324cf, type: 2}
-    m_TargetAsset: {fileID: 11400000, guid: 3ccb6dbe9de6cc2439af82f36a6324cf, type: 2}
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
   - m_GUID: 620a1a7c607d6874182e8e7fcd6b0a45
     m_Address: Stars
     m_ReadOnly: 0
     m_SerializedLabels:
     - event
-    m_MainAsset: {fileID: 11400000, guid: 620a1a7c607d6874182e8e7fcd6b0a45, type: 2}
-    m_TargetAsset: {fileID: 11400000, guid: 620a1a7c607d6874182e8e7fcd6b0a45, type: 2}
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
   - m_GUID: b1de4280195969c4c8da2186c9987872
     m_Address: Tooth Fairy
     m_ReadOnly: 0
     m_SerializedLabels:
     - event
-    m_MainAsset: {fileID: 11400000, guid: b1de4280195969c4c8da2186c9987872, type: 2}
-    m_TargetAsset: {fileID: 11400000, guid: b1de4280195969c4c8da2186c9987872, type: 2}
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
   - m_GUID: 5c83bc76057f4e24a908d9a91bd9cf91
     m_Address: Undead Diviner
     m_ReadOnly: 0
     m_SerializedLabels:
     - event
-    m_MainAsset: {fileID: 11400000, guid: 5c83bc76057f4e24a908d9a91bd9cf91, type: 2}
-    m_TargetAsset: {fileID: 11400000, guid: 5c83bc76057f4e24a908d9a91bd9cf91, type: 2}
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
   - m_GUID: 7aa9d6d0a74a56e4bb9a77e6634a9b78
     m_Address: Vampire Cosplay
     m_ReadOnly: 0
     m_SerializedLabels:
     - event
-    m_MainAsset: {fileID: 11400000, guid: 7aa9d6d0a74a56e4bb9a77e6634a9b78, type: 2}
-    m_TargetAsset: {fileID: 11400000, guid: 7aa9d6d0a74a56e4bb9a77e6634a9b78, type: 2}
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
   - m_GUID: f4bb95f35cff3e141b5c7137650838f3
     m_Address: Well Eye
     m_ReadOnly: 0
     m_SerializedLabels:
     - event
-    m_MainAsset: {fileID: 11400000, guid: f4bb95f35cff3e141b5c7137650838f3, type: 2}
-    m_TargetAsset: {fileID: 11400000, guid: f4bb95f35cff3e141b5c7137650838f3, type: 2}
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
   - m_GUID: 8a3a3fb315a984942bfcf98abdd72ec2
     m_Address: Time Loop 1
     m_ReadOnly: 0
     m_SerializedLabels:
     - event
-    m_MainAsset: {fileID: 11400000, guid: 8a3a3fb315a984942bfcf98abdd72ec2, type: 2}
-    m_TargetAsset: {fileID: 11400000, guid: 8a3a3fb315a984942bfcf98abdd72ec2, type: 2}
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
   - m_GUID: f7b4df43432844249970b369b43f8c7f
     m_Address: Time Loop 2
     m_ReadOnly: 0
     m_SerializedLabels:
     - event
-    m_MainAsset: {fileID: 11400000, guid: f7b4df43432844249970b369b43f8c7f, type: 2}
-    m_TargetAsset: {fileID: 11400000, guid: f7b4df43432844249970b369b43f8c7f, type: 2}
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
   - m_GUID: fdc07bd1dc398b944830845bedcf0479
     m_Address: Time Loop 3
     m_ReadOnly: 0
     m_SerializedLabels:
     - event
-    m_MainAsset: {fileID: 11400000, guid: fdc07bd1dc398b944830845bedcf0479, type: 2}
-    m_TargetAsset: {fileID: 11400000, guid: fdc07bd1dc398b944830845bedcf0479, type: 2}
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
   - m_GUID: 5db09419663b7404aa67c17eee1bb845
     m_Address: Dragon Hoax 2
     m_ReadOnly: 0
     m_SerializedLabels:
     - event
-    m_MainAsset: {fileID: 11400000, guid: 5db09419663b7404aa67c17eee1bb845, type: 2}
-    m_TargetAsset: {fileID: 11400000, guid: 5db09419663b7404aa67c17eee1bb845, type: 2}
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
   - m_GUID: a52904710d15faa4599c8a996b7b3f31
     m_Address: Dragon Hoax 1
     m_ReadOnly: 0
     m_SerializedLabels:
     - event
-    m_MainAsset: {fileID: 11400000, guid: a52904710d15faa4599c8a996b7b3f31, type: 2}
-    m_TargetAsset: {fileID: 11400000, guid: a52904710d15faa4599c8a996b7b3f31, type: 2}
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
   - m_GUID: 7002d63b1a25179479151f97e4c4193a
     m_Address: Alcohol Shortage
     m_ReadOnly: 0
     m_SerializedLabels:
     - event
-    m_MainAsset: {fileID: 11400000, guid: 7002d63b1a25179479151f97e4c4193a, type: 2}
-    m_TargetAsset: {fileID: 11400000, guid: 7002d63b1a25179479151f97e4c4193a, type: 2}
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
   - m_GUID: 0917393df27b6f84c8e7e16d8cbf4a50
     m_Address: Madmans Treasure
     m_ReadOnly: 0
     m_SerializedLabels:
     - event
-    m_MainAsset: {fileID: 11400000, guid: 0917393df27b6f84c8e7e16d8cbf4a50, type: 2}
-    m_TargetAsset: {fileID: 11400000, guid: 0917393df27b6f84c8e7e16d8cbf4a50, type: 2}
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
   - m_GUID: b99dcdf8e5e7ede4a98aa47b211bc41d
     m_Address: Madmans Treasure End 1
     m_ReadOnly: 0
     m_SerializedLabels:
     - event
-    m_MainAsset: {fileID: 11400000, guid: b99dcdf8e5e7ede4a98aa47b211bc41d, type: 2}
-    m_TargetAsset: {fileID: 11400000, guid: b99dcdf8e5e7ede4a98aa47b211bc41d, type: 2}
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
   - m_GUID: 98e0fcbb224c6e5469f2edd650212a06
     m_Address: Raid Bandits
     m_ReadOnly: 0
     m_SerializedLabels:
     - event
-    m_MainAsset: {fileID: 11400000, guid: 98e0fcbb224c6e5469f2edd650212a06, type: 2}
-    m_TargetAsset: {fileID: 11400000, guid: 98e0fcbb224c6e5469f2edd650212a06, type: 2}
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
   - m_GUID: 6bfddf07f761240478ac5a489fe7badd
     m_Address: Raid Bandits End 2
     m_ReadOnly: 0
     m_SerializedLabels:
     - event
-    m_MainAsset: {fileID: 11400000, guid: 6bfddf07f761240478ac5a489fe7badd, type: 2}
-    m_TargetAsset: {fileID: 11400000, guid: 6bfddf07f761240478ac5a489fe7badd, type: 2}
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
   - m_GUID: a85d74dd3dc316349a4bdf6d1a1401f1
     m_Address: Raid Bandits End 1
     m_ReadOnly: 0
     m_SerializedLabels:
     - event
-    m_MainAsset: {fileID: 11400000, guid: a85d74dd3dc316349a4bdf6d1a1401f1, type: 2}
-    m_TargetAsset: {fileID: 11400000, guid: a85d74dd3dc316349a4bdf6d1a1401f1, type: 2}
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
   - m_GUID: 4939ec733117dfc4dbe32c7c0ad3bf18
     m_Address: 10 MacGuffins
     m_ReadOnly: 0
     m_SerializedLabels:
     - event
-    m_MainAsset: {fileID: 11400000, guid: 4939ec733117dfc4dbe32c7c0ad3bf18, type: 2}
-    m_TargetAsset: {fileID: 11400000, guid: 4939ec733117dfc4dbe32c7c0ad3bf18, type: 2}
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
   - m_GUID: 8da1aa18006e2a24a9395aaf353da159
     m_Address: 10 MacGuffins End 1
     m_ReadOnly: 0
     m_SerializedLabels:
     - event
-    m_MainAsset: {fileID: 11400000, guid: 8da1aa18006e2a24a9395aaf353da159, type: 2}
-    m_TargetAsset: {fileID: 11400000, guid: 8da1aa18006e2a24a9395aaf353da159, type: 2}
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
   - m_GUID: 64ed9374fea99644d84316bff0da216a
     m_Address: 10 MacGuffins End 2
     m_ReadOnly: 0
     m_SerializedLabels:
     - event
-    m_MainAsset: {fileID: 11400000, guid: 64ed9374fea99644d84316bff0da216a, type: 2}
-    m_TargetAsset: {fileID: 11400000, guid: 64ed9374fea99644d84316bff0da216a, type: 2}
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
   - m_GUID: 3b18e1de03c78974296a2210f4e6ca1c
     m_Address: 10 MacGuffins End 3
     m_ReadOnly: 0
     m_SerializedLabels:
     - event
-    m_MainAsset: {fileID: 11400000, guid: 3b18e1de03c78974296a2210f4e6ca1c, type: 2}
-    m_TargetAsset: {fileID: 11400000, guid: 3b18e1de03c78974296a2210f4e6ca1c, type: 2}
-  - m_GUID: e65233fc17b197a4a86eced77f5dd620
-    m_Address: B1 - Completed Event
-    m_ReadOnly: 0
-    m_SerializedLabels:
-    - event
-    m_MainAsset: {fileID: 11400000, guid: e65233fc17b197a4a86eced77f5dd620, type: 2}
-    m_TargetAsset: {fileID: 11400000, guid: e65233fc17b197a4a86eced77f5dd620, type: 2}
-  - m_GUID: 279508e5106e80b45a701f6688c50ff5
-    m_Address: B2 - Completed Event
-    m_ReadOnly: 0
-    m_SerializedLabels:
-    - event
-    m_MainAsset: {fileID: 11400000, guid: 279508e5106e80b45a701f6688c50ff5, type: 2}
-    m_TargetAsset: {fileID: 11400000, guid: 279508e5106e80b45a701f6688c50ff5, type: 2}
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
   - m_GUID: 54dcaa818a96ec44e840f24ede6b8c23
     m_Address: Adventure Zone
     m_ReadOnly: 0
     m_SerializedLabels:
     - event
-    m_MainAsset: {fileID: 11400000, guid: 54dcaa818a96ec44e840f24ede6b8c23, type: 2}
-    m_TargetAsset: {fileID: 11400000, guid: 54dcaa818a96ec44e840f24ede6b8c23, type: 2}
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
   - m_GUID: e135fa44ce4cb54429b076488c2554d1
     m_Address: Aliens 1
     m_ReadOnly: 0
     m_SerializedLabels:
     - event
-    m_MainAsset: {fileID: 11400000, guid: e135fa44ce4cb54429b076488c2554d1, type: 2}
-    m_TargetAsset: {fileID: 11400000, guid: e135fa44ce4cb54429b076488c2554d1, type: 2}
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
   - m_GUID: 4bb51b66c76ea314d9f2c02b70aae2da
     m_Address: Aliens 2
     m_ReadOnly: 0
     m_SerializedLabels:
     - event
-    m_MainAsset: {fileID: 11400000, guid: 4bb51b66c76ea314d9f2c02b70aae2da, type: 2}
-    m_TargetAsset: {fileID: 11400000, guid: 4bb51b66c76ea314d9f2c02b70aae2da, type: 2}
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
   - m_GUID: e15f1f17576c7be4388113a159190ba4
     m_Address: Aliens 3
     m_ReadOnly: 0
     m_SerializedLabels:
     - event
-    m_MainAsset: {fileID: 11400000, guid: e15f1f17576c7be4388113a159190ba4, type: 2}
-    m_TargetAsset: {fileID: 11400000, guid: e15f1f17576c7be4388113a159190ba4, type: 2}
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
   - m_GUID: ff55fc32699bda84f9a0c4a9e4b01678
     m_Address: Apothecary 1
     m_ReadOnly: 0
     m_SerializedLabels:
     - event
-    m_MainAsset: {fileID: 11400000, guid: ff55fc32699bda84f9a0c4a9e4b01678, type: 2}
-    m_TargetAsset: {fileID: 11400000, guid: ff55fc32699bda84f9a0c4a9e4b01678, type: 2}
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
   - m_GUID: 3026bd8e43e60ef48a5ffafeab4b7f80
     m_Address: Apothecary 2
     m_ReadOnly: 0
     m_SerializedLabels:
     - event
-    m_MainAsset: {fileID: 11400000, guid: 3026bd8e43e60ef48a5ffafeab4b7f80, type: 2}
-    m_TargetAsset: {fileID: 11400000, guid: 3026bd8e43e60ef48a5ffafeab4b7f80, type: 2}
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
   - m_GUID: ac3f32b35b6b93f4dbecf20855965595
     m_Address: Apothecary 3
     m_ReadOnly: 0
     m_SerializedLabels:
     - event
-    m_MainAsset: {fileID: 11400000, guid: ac3f32b35b6b93f4dbecf20855965595, type: 2}
-    m_TargetAsset: {fileID: 11400000, guid: ac3f32b35b6b93f4dbecf20855965595, type: 2}
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
   - m_GUID: 0771f99056a1c95499945e6d7eda7319
     m_Address: Armoury 1
     m_ReadOnly: 0
     m_SerializedLabels:
     - event
-    m_MainAsset: {fileID: 11400000, guid: 0771f99056a1c95499945e6d7eda7319, type: 2}
-    m_TargetAsset: {fileID: 11400000, guid: 0771f99056a1c95499945e6d7eda7319, type: 2}
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
   - m_GUID: 8bdbc48f09331f34da4b8dfff3c0e38e
     m_Address: Armoury 2
     m_ReadOnly: 0
     m_SerializedLabels:
     - event
-    m_MainAsset: {fileID: 11400000, guid: 8bdbc48f09331f34da4b8dfff3c0e38e, type: 2}
-    m_TargetAsset: {fileID: 11400000, guid: 8bdbc48f09331f34da4b8dfff3c0e38e, type: 2}
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
   - m_GUID: 0a06b4281b9b62c4c88a1390b19fb0a3
     m_Address: Bakery 1
     m_ReadOnly: 0
     m_SerializedLabels:
     - event
-    m_MainAsset: {fileID: 11400000, guid: 0a06b4281b9b62c4c88a1390b19fb0a3, type: 2}
-    m_TargetAsset: {fileID: 11400000, guid: 0a06b4281b9b62c4c88a1390b19fb0a3, type: 2}
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
   - m_GUID: 43061ec556832944ea5e2fd08277fe0c
     m_Address: Bakery 2
     m_ReadOnly: 0
     m_SerializedLabels:
     - event
-    m_MainAsset: {fileID: 11400000, guid: 43061ec556832944ea5e2fd08277fe0c, type: 2}
-    m_TargetAsset: {fileID: 11400000, guid: 43061ec556832944ea5e2fd08277fe0c, type: 2}
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
   - m_GUID: 638c21f602e1d8046aa476a2635dc385
     m_Address: Bandit Raid
     m_ReadOnly: 0
     m_SerializedLabels:
     - event
-    m_MainAsset: {fileID: 11400000, guid: 638c21f602e1d8046aa476a2635dc385, type: 2}
-    m_TargetAsset: {fileID: 11400000, guid: 638c21f602e1d8046aa476a2635dc385, type: 2}
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
   - m_GUID: d73805a5d4457764680ba682eeea8e05
     m_Address: Barracks 1
     m_ReadOnly: 0
     m_SerializedLabels:
     - event
-    m_MainAsset: {fileID: 11400000, guid: d73805a5d4457764680ba682eeea8e05, type: 2}
-    m_TargetAsset: {fileID: 11400000, guid: d73805a5d4457764680ba682eeea8e05, type: 2}
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
   - m_GUID: 0f660cb20e8879042981d6cdce9a357c
     m_Address: Barracks 2
     m_ReadOnly: 0
     m_SerializedLabels:
     - event
-    m_MainAsset: {fileID: 11400000, guid: 0f660cb20e8879042981d6cdce9a357c, type: 2}
-    m_TargetAsset: {fileID: 11400000, guid: 0f660cb20e8879042981d6cdce9a357c, type: 2}
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
   - m_GUID: 74d82ff5c1d061f4e8ea4c109d0069d2
     m_Address: Bath House 1
     m_ReadOnly: 0
     m_SerializedLabels:
     - event
-    m_MainAsset: {fileID: 11400000, guid: 74d82ff5c1d061f4e8ea4c109d0069d2, type: 2}
-    m_TargetAsset: {fileID: 11400000, guid: 74d82ff5c1d061f4e8ea4c109d0069d2, type: 2}
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
   - m_GUID: bfc7e33a28f73164ebf53604079cc959
     m_Address: Bath House 2
     m_ReadOnly: 0
     m_SerializedLabels:
     - event
-    m_MainAsset: {fileID: 11400000, guid: bfc7e33a28f73164ebf53604079cc959, type: 2}
-    m_TargetAsset: {fileID: 11400000, guid: bfc7e33a28f73164ebf53604079cc959, type: 2}
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
   - m_GUID: 9090ddf13b3546e4b897be0a86ed0c4d
     m_Address: Bee Team
     m_ReadOnly: 0
     m_SerializedLabels:
     - event
-    m_MainAsset: {fileID: 11400000, guid: 9090ddf13b3546e4b897be0a86ed0c4d, type: 2}
-    m_TargetAsset: {fileID: 11400000, guid: 9090ddf13b3546e4b897be0a86ed0c4d, type: 2}
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
   - m_GUID: b4c7f0bd06600e04d9427d75f82142ef
     m_Address: Boot
     m_ReadOnly: 0
     m_SerializedLabels:
     - event
-    m_MainAsset: {fileID: 11400000, guid: b4c7f0bd06600e04d9427d75f82142ef, type: 2}
-    m_TargetAsset: {fileID: 11400000, guid: b4c7f0bd06600e04d9427d75f82142ef, type: 2}
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
   - m_GUID: be1318a1b305aa541ad23d62da5f5e59
     m_Address: Boring
     m_ReadOnly: 0
     m_SerializedLabels:
     - event
-    m_MainAsset: {fileID: 11400000, guid: be1318a1b305aa541ad23d62da5f5e59, type: 2}
-    m_TargetAsset: {fileID: 11400000, guid: be1318a1b305aa541ad23d62da5f5e59, type: 2}
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
   - m_GUID: 684597a4f7462064dae8763899e62782
     m_Address: Brewery 1
     m_ReadOnly: 0
     m_SerializedLabels:
     - event
-    m_MainAsset: {fileID: 11400000, guid: 684597a4f7462064dae8763899e62782, type: 2}
-    m_TargetAsset: {fileID: 11400000, guid: 684597a4f7462064dae8763899e62782, type: 2}
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
   - m_GUID: ec30a2bb28e1b474a86ea75e24fc953a
     m_Address: Brewery 2
     m_ReadOnly: 0
     m_SerializedLabels:
     - event
-    m_MainAsset: {fileID: 11400000, guid: ec30a2bb28e1b474a86ea75e24fc953a, type: 2}
-    m_TargetAsset: {fileID: 11400000, guid: ec30a2bb28e1b474a86ea75e24fc953a, type: 2}
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
   - m_GUID: ff50fa8711188134ba9aea3840592ddd
     m_Address: Bucket Head
     m_ReadOnly: 0
     m_SerializedLabels:
     - event
-    m_MainAsset: {fileID: 11400000, guid: ff50fa8711188134ba9aea3840592ddd, type: 2}
-    m_TargetAsset: {fileID: 11400000, guid: ff50fa8711188134ba9aea3840592ddd, type: 2}
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
   - m_GUID: 0a8ea164e64377f4c942233b14370666
     m_Address: Cartographers 1
     m_ReadOnly: 0
     m_SerializedLabels:
     - event
-    m_MainAsset: {fileID: 11400000, guid: 0a8ea164e64377f4c942233b14370666, type: 2}
-    m_TargetAsset: {fileID: 11400000, guid: 0a8ea164e64377f4c942233b14370666, type: 2}
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
   - m_GUID: ae249cd0a118ceb45bb6c55d51e9c17c
     m_Address: Cartographers 2
     m_ReadOnly: 0
     m_SerializedLabels:
     - event
-    m_MainAsset: {fileID: 11400000, guid: ae249cd0a118ceb45bb6c55d51e9c17c, type: 2}
-    m_TargetAsset: {fileID: 11400000, guid: ae249cd0a118ceb45bb6c55d51e9c17c, type: 2}
-  - m_GUID: d335a24d031fe484b9108c1c7f1b7ff5
-    m_Address: B1 - Added Event
-    m_ReadOnly: 0
-    m_SerializedLabels:
-    - event
-    m_MainAsset: {fileID: 11400000, guid: d335a24d031fe484b9108c1c7f1b7ff5, type: 2}
-    m_TargetAsset: {fileID: 11400000, guid: d335a24d031fe484b9108c1c7f1b7ff5, type: 2}
-  - m_GUID: 4301809980fd6464a8dfb12d8f5cd441
-    m_Address: B2 - Added Event
-    m_ReadOnly: 0
-    m_SerializedLabels:
-    - event
-    m_MainAsset: {fileID: 11400000, guid: 4301809980fd6464a8dfb12d8f5cd441, type: 2}
-    m_TargetAsset: {fileID: 11400000, guid: 4301809980fd6464a8dfb12d8f5cd441, type: 2}
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
   - m_GUID: 53939f5c2c972c74796e9f218bd5f1dc
     m_Address: Crabs
     m_ReadOnly: 0
     m_SerializedLabels:
     - event
-    m_MainAsset: {fileID: 11400000, guid: 53939f5c2c972c74796e9f218bd5f1dc, type: 2}
-    m_TargetAsset: {fileID: 11400000, guid: 53939f5c2c972c74796e9f218bd5f1dc, type: 2}
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
   - m_GUID: 0613d9a0113d96b4fb023fed8730855e
     m_Address: Crystal Mech
     m_ReadOnly: 0
     m_SerializedLabels:
     - event
-    m_MainAsset: {fileID: 11400000, guid: 0613d9a0113d96b4fb023fed8730855e, type: 2}
-    m_TargetAsset: {fileID: 11400000, guid: 0613d9a0113d96b4fb023fed8730855e, type: 2}
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
   - m_GUID: 7e1e02e3b31ca5c42958e8c5a6f542d1
     m_Address: Curse
     m_ReadOnly: 0
     m_SerializedLabels:
     - event
-    m_MainAsset: {fileID: 11400000, guid: 7e1e02e3b31ca5c42958e8c5a6f542d1, type: 2}
-    m_TargetAsset: {fileID: 11400000, guid: 7e1e02e3b31ca5c42958e8c5a6f542d1, type: 2}
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
   - m_GUID: 6c519822cdea2a44196fcd2ebbfb8ee2
     m_Address: Delivery
     m_ReadOnly: 0
     m_SerializedLabels:
     - event
-    m_MainAsset: {fileID: 11400000, guid: 6c519822cdea2a44196fcd2ebbfb8ee2, type: 2}
-    m_TargetAsset: {fileID: 11400000, guid: 6c519822cdea2a44196fcd2ebbfb8ee2, type: 2}
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
   - m_GUID: a0bf55008bceff94a82d30685a0f8724
     m_Address: Delivery End 1
     m_ReadOnly: 0
     m_SerializedLabels:
     - event
-    m_MainAsset: {fileID: 11400000, guid: a0bf55008bceff94a82d30685a0f8724, type: 2}
-    m_TargetAsset: {fileID: 11400000, guid: a0bf55008bceff94a82d30685a0f8724, type: 2}
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
   - m_GUID: 7816811a1acb2ae40a00826eb727694c
     m_Address: Dragon Hunting 1
     m_ReadOnly: 0
     m_SerializedLabels:
     - event
-    m_MainAsset: {fileID: 11400000, guid: 7816811a1acb2ae40a00826eb727694c, type: 2}
-    m_TargetAsset: {fileID: 11400000, guid: 7816811a1acb2ae40a00826eb727694c, type: 2}
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
   - m_GUID: 316d0d770959bd54b885df3f760f7ada
     m_Address: Dragon Hunting 2
     m_ReadOnly: 0
     m_SerializedLabels:
     - event
-    m_MainAsset: {fileID: 11400000, guid: 316d0d770959bd54b885df3f760f7ada, type: 2}
-    m_TargetAsset: {fileID: 11400000, guid: 316d0d770959bd54b885df3f760f7ada, type: 2}
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
   - m_GUID: 7bd6b99edfb82cf4ab8d265a3af7cab2
     m_Address: Dragon Hunting 3
     m_ReadOnly: 0
     m_SerializedLabels:
     - event
-    m_MainAsset: {fileID: 11400000, guid: 7bd6b99edfb82cf4ab8d265a3af7cab2, type: 2}
-    m_TargetAsset: {fileID: 11400000, guid: 7bd6b99edfb82cf4ab8d265a3af7cab2, type: 2}
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
   - m_GUID: 8939999f39824b14ba9c5ab3e2088fdb
     m_Address: Dungeoneering
     m_ReadOnly: 0
     m_SerializedLabels:
     - event
-    m_MainAsset: {fileID: 11400000, guid: 8939999f39824b14ba9c5ab3e2088fdb, type: 2}
-    m_TargetAsset: {fileID: 11400000, guid: 8939999f39824b14ba9c5ab3e2088fdb, type: 2}
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
   - m_GUID: 6477bbf758ca0a9468ee11c6ee3386c7
     m_Address: Dungeoneering End 1
     m_ReadOnly: 0
     m_SerializedLabels:
     - event
-    m_MainAsset: {fileID: 11400000, guid: 6477bbf758ca0a9468ee11c6ee3386c7, type: 2}
-    m_TargetAsset: {fileID: 11400000, guid: 6477bbf758ca0a9468ee11c6ee3386c7, type: 2}
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
   - m_GUID: 9daa8a6688929884e87b6a2cd9101190
     m_Address: Dungeoneering End 2
     m_ReadOnly: 0
     m_SerializedLabels:
     - event
-    m_MainAsset: {fileID: 11400000, guid: 9daa8a6688929884e87b6a2cd9101190, type: 2}
-    m_TargetAsset: {fileID: 11400000, guid: 9daa8a6688929884e87b6a2cd9101190, type: 2}
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
   - m_GUID: 60863db3ded3a6b44b8bef3bf14d6b2f
     m_Address: Dwarf Kicker 1
     m_ReadOnly: 0
     m_SerializedLabels:
     - event
-    m_MainAsset: {fileID: 11400000, guid: 60863db3ded3a6b44b8bef3bf14d6b2f, type: 2}
-    m_TargetAsset: {fileID: 11400000, guid: 60863db3ded3a6b44b8bef3bf14d6b2f, type: 2}
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
   - m_GUID: 075a7428eedc24a479e31c08357788d5
     m_Address: Dwarf Kicker 2
     m_ReadOnly: 0
     m_SerializedLabels:
     - event
-    m_MainAsset: {fileID: 11400000, guid: 075a7428eedc24a479e31c08357788d5, type: 2}
-    m_TargetAsset: {fileID: 11400000, guid: 075a7428eedc24a479e31c08357788d5, type: 2}
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
   - m_GUID: d60c26317d27fda46839cc1b73d31eb9
     m_Address: Dwarf Kicker 3
     m_ReadOnly: 0
     m_SerializedLabels:
     - event
-    m_MainAsset: {fileID: 11400000, guid: d60c26317d27fda46839cc1b73d31eb9, type: 2}
-    m_TargetAsset: {fileID: 11400000, guid: d60c26317d27fda46839cc1b73d31eb9, type: 2}
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
   - m_GUID: 27629e5f19c903641ad93325f9dc2d9b
     m_Address: Dwarf Kicker 4
     m_ReadOnly: 0
     m_SerializedLabels:
     - event
-    m_MainAsset: {fileID: 11400000, guid: 27629e5f19c903641ad93325f9dc2d9b, type: 2}
-    m_TargetAsset: {fileID: 11400000, guid: 27629e5f19c903641ad93325f9dc2d9b, type: 2}
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
   - m_GUID: 354fca17dff530f4d8e7e47b8cafa4d7
     m_Address: Enchanters 1
     m_ReadOnly: 0
     m_SerializedLabels:
     - event
-    m_MainAsset: {fileID: 11400000, guid: 354fca17dff530f4d8e7e47b8cafa4d7, type: 2}
-    m_TargetAsset: {fileID: 11400000, guid: 354fca17dff530f4d8e7e47b8cafa4d7, type: 2}
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
   - m_GUID: 7247a9f8f6506f94c97fbc80fd714c86
     m_Address: Enchanters 2
     m_ReadOnly: 0
     m_SerializedLabels:
     - event
-    m_MainAsset: {fileID: 11400000, guid: 7247a9f8f6506f94c97fbc80fd714c86, type: 2}
-    m_TargetAsset: {fileID: 11400000, guid: 7247a9f8f6506f94c97fbc80fd714c86, type: 2}
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
   - m_GUID: 1f37d5a78fb9f2044aeee6bafbf5ddf8
     m_Address: Fae
     m_ReadOnly: 0
     m_SerializedLabels:
     - event
-    m_MainAsset: {fileID: 11400000, guid: 1f37d5a78fb9f2044aeee6bafbf5ddf8, type: 2}
-    m_TargetAsset: {fileID: 11400000, guid: 1f37d5a78fb9f2044aeee6bafbf5ddf8, type: 2}
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
   - m_GUID: 5624413eb1e707c4fb4c4b8943cbcdeb
     m_Address: Frankenstein
     m_ReadOnly: 0
     m_SerializedLabels:
     - event
-    m_MainAsset: {fileID: 11400000, guid: 5624413eb1e707c4fb4c4b8943cbcdeb, type: 2}
-    m_TargetAsset: {fileID: 11400000, guid: 5624413eb1e707c4fb4c4b8943cbcdeb, type: 2}
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
   - m_GUID: 528edcb569f172c4b971f8ebc6f0fd46
     m_Address: Help Neighbour
     m_ReadOnly: 0
     m_SerializedLabels:
     - event
-    m_MainAsset: {fileID: 11400000, guid: 528edcb569f172c4b971f8ebc6f0fd46, type: 2}
-    m_TargetAsset: {fileID: 11400000, guid: 528edcb569f172c4b971f8ebc6f0fd46, type: 2}
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
   - m_GUID: b0417ecdd40747a4b9dafbcfb8d3ce8e
     m_Address: Help Neighbour End 1
     m_ReadOnly: 0
     m_SerializedLabels:
     - event
-    m_MainAsset: {fileID: 11400000, guid: b0417ecdd40747a4b9dafbcfb8d3ce8e, type: 2}
-    m_TargetAsset: {fileID: 11400000, guid: b0417ecdd40747a4b9dafbcfb8d3ce8e, type: 2}
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
   - m_GUID: 5e41b5f957e0bf447a2a9250cc0428ab
     m_Address: Help Neighbour End 2
     m_ReadOnly: 0
     m_SerializedLabels:
     - event
-    m_MainAsset: {fileID: 11400000, guid: 5e41b5f957e0bf447a2a9250cc0428ab, type: 2}
-    m_TargetAsset: {fileID: 11400000, guid: 5e41b5f957e0bf447a2a9250cc0428ab, type: 2}
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
   - m_GUID: 8c9cae4897d52e246b5385c09975859d
     m_Address: Holiday Heros
     m_ReadOnly: 0
     m_SerializedLabels:
     - event
-    m_MainAsset: {fileID: 11400000, guid: 8c9cae4897d52e246b5385c09975859d, type: 2}
-    m_TargetAsset: {fileID: 11400000, guid: 8c9cae4897d52e246b5385c09975859d, type: 2}
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
   - m_GUID: 36b0e8214f50ac34194aeeec666c3e05
     m_Address: Jewellers 1
     m_ReadOnly: 0
     m_SerializedLabels:
     - event
-    m_MainAsset: {fileID: 11400000, guid: 36b0e8214f50ac34194aeeec666c3e05, type: 2}
-    m_TargetAsset: {fileID: 11400000, guid: 36b0e8214f50ac34194aeeec666c3e05, type: 2}
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
   - m_GUID: 2953c1e7219f5a04e9c10794cbf2b190
     m_Address: Jewellers 2
     m_ReadOnly: 0
     m_SerializedLabels:
     - event
-    m_MainAsset: {fileID: 11400000, guid: 2953c1e7219f5a04e9c10794cbf2b190, type: 2}
-    m_TargetAsset: {fileID: 11400000, guid: 2953c1e7219f5a04e9c10794cbf2b190, type: 2}
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
   - m_GUID: e5fa5b51d23ccf44bb9a22afe293fde1
     m_Address: Kobold 1
     m_ReadOnly: 0
     m_SerializedLabels:
     - event
-    m_MainAsset: {fileID: 11400000, guid: e5fa5b51d23ccf44bb9a22afe293fde1, type: 2}
-    m_TargetAsset: {fileID: 11400000, guid: e5fa5b51d23ccf44bb9a22afe293fde1, type: 2}
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
   - m_GUID: c41950f2f54982d4aa45e27af653f5e5
     m_Address: Kobold 2
     m_ReadOnly: 0
     m_SerializedLabels:
     - event
-    m_MainAsset: {fileID: 11400000, guid: c41950f2f54982d4aa45e27af653f5e5, type: 2}
-    m_TargetAsset: {fileID: 11400000, guid: c41950f2f54982d4aa45e27af653f5e5, type: 2}
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
   - m_GUID: b9e5feb980f4a0b429674a2060467ace
     m_Address: Leatherworks 1
     m_ReadOnly: 0
     m_SerializedLabels:
     - event
-    m_MainAsset: {fileID: 11400000, guid: b9e5feb980f4a0b429674a2060467ace, type: 2}
-    m_TargetAsset: {fileID: 11400000, guid: b9e5feb980f4a0b429674a2060467ace, type: 2}
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
   - m_GUID: 4b7e5914218c7e14bb3c84fec5d1b9c7
     m_Address: Leatherworks 2
     m_ReadOnly: 0
     m_SerializedLabels:
     - event
-    m_MainAsset: {fileID: 11400000, guid: 4b7e5914218c7e14bb3c84fec5d1b9c7, type: 2}
-    m_TargetAsset: {fileID: 11400000, guid: 4b7e5914218c7e14bb3c84fec5d1b9c7, type: 2}
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
   - m_GUID: a0c386ad17087144ca9cde3a4554a0a8
     m_Address: Lost and Found
     m_ReadOnly: 0
     m_SerializedLabels:
     - event
-    m_MainAsset: {fileID: 11400000, guid: a0c386ad17087144ca9cde3a4554a0a8, type: 2}
-    m_TargetAsset: {fileID: 11400000, guid: a0c386ad17087144ca9cde3a4554a0a8, type: 2}
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
   - m_GUID: 00ff60ae6a8cbde42ae48608adbacbf0
     m_Address: Marching Bandits
     m_ReadOnly: 0
     m_SerializedLabels:
     - event
-    m_MainAsset: {fileID: 11400000, guid: 00ff60ae6a8cbde42ae48608adbacbf0, type: 2}
-    m_TargetAsset: {fileID: 11400000, guid: 00ff60ae6a8cbde42ae48608adbacbf0, type: 2}
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
   - m_GUID: e3e65f0e5e4dc1543ac639ba1b58f34f
     m_Address: Merfolk
     m_ReadOnly: 0
     m_SerializedLabels:
     - event
-    m_MainAsset: {fileID: 11400000, guid: e3e65f0e5e4dc1543ac639ba1b58f34f, type: 2}
-    m_TargetAsset: {fileID: 11400000, guid: e3e65f0e5e4dc1543ac639ba1b58f34f, type: 2}
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
   - m_GUID: 58a0b87c921c49b48847904ce5ae133e
     m_Address: Mistaken Identity
     m_ReadOnly: 0
     m_SerializedLabels:
     - event
-    m_MainAsset: {fileID: 11400000, guid: 58a0b87c921c49b48847904ce5ae133e, type: 2}
-    m_TargetAsset: {fileID: 11400000, guid: 58a0b87c921c49b48847904ce5ae133e, type: 2}
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
   - m_GUID: 7b0a14b4df142ed42889722b302ca4f0
     m_Address: Plaza 1
     m_ReadOnly: 0
     m_SerializedLabels:
     - event
-    m_MainAsset: {fileID: 11400000, guid: 7b0a14b4df142ed42889722b302ca4f0, type: 2}
-    m_TargetAsset: {fileID: 11400000, guid: 7b0a14b4df142ed42889722b302ca4f0, type: 2}
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
   - m_GUID: 134b6f479a3a982448246cbc4bed917b
     m_Address: Plaza 2
     m_ReadOnly: 0
     m_SerializedLabels:
     - event
-    m_MainAsset: {fileID: 11400000, guid: 134b6f479a3a982448246cbc4bed917b, type: 2}
-    m_TargetAsset: {fileID: 11400000, guid: 134b6f479a3a982448246cbc4bed917b, type: 2}
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
   - m_GUID: 2c4b8c178cea76f4f9372c80cac44266
     m_Address: Propaganda
     m_ReadOnly: 0
     m_SerializedLabels:
     - event
-    m_MainAsset: {fileID: 11400000, guid: 2c4b8c178cea76f4f9372c80cac44266, type: 2}
-    m_TargetAsset: {fileID: 11400000, guid: 2c4b8c178cea76f4f9372c80cac44266, type: 2}
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
   - m_GUID: 519ecb3994e69984c8c35edc8364118e
     m_Address: Santa
     m_ReadOnly: 0
     m_SerializedLabels:
     - event
-    m_MainAsset: {fileID: 11400000, guid: 519ecb3994e69984c8c35edc8364118e, type: 2}
-    m_TargetAsset: {fileID: 11400000, guid: 519ecb3994e69984c8c35edc8364118e, type: 2}
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
   - m_GUID: 2ab5d1eae419b7543bb0a0f0f0d32386
     m_Address: Sasq-Watch
     m_ReadOnly: 0
     m_SerializedLabels:
     - event
-    m_MainAsset: {fileID: 11400000, guid: 2ab5d1eae419b7543bb0a0f0f0d32386, type: 2}
-    m_TargetAsset: {fileID: 11400000, guid: 2ab5d1eae419b7543bb0a0f0f0d32386, type: 2}
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
   - m_GUID: 7c746c84512398e43b9b0de1a3e8e719
     m_Address: Scout Area
     m_ReadOnly: 0
     m_SerializedLabels:
     - event
-    m_MainAsset: {fileID: 11400000, guid: 7c746c84512398e43b9b0de1a3e8e719, type: 2}
-    m_TargetAsset: {fileID: 11400000, guid: 7c746c84512398e43b9b0de1a3e8e719, type: 2}
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
   - m_GUID: 7f52026638a838d4a8335487da436502
     m_Address: Scout Area End 1
     m_ReadOnly: 0
     m_SerializedLabels:
     - event
-    m_MainAsset: {fileID: 11400000, guid: 7f52026638a838d4a8335487da436502, type: 2}
-    m_TargetAsset: {fileID: 11400000, guid: 7f52026638a838d4a8335487da436502, type: 2}
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
   - m_GUID: fcac301193cafde41b8db3a1824673c3
     m_Address: Sewer Slimes
     m_ReadOnly: 0
     m_SerializedLabels:
     - event
-    m_MainAsset: {fileID: 11400000, guid: fcac301193cafde41b8db3a1824673c3, type: 2}
-    m_TargetAsset: {fileID: 11400000, guid: fcac301193cafde41b8db3a1824673c3, type: 2}
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
   - m_GUID: 39f4c7861a8f23f41bfb18fdefe4f2a2
     m_Address: Slimes
     m_ReadOnly: 0
     m_SerializedLabels:
     - event
-    m_MainAsset: {fileID: 11400000, guid: 39f4c7861a8f23f41bfb18fdefe4f2a2, type: 2}
-    m_TargetAsset: {fileID: 11400000, guid: 39f4c7861a8f23f41bfb18fdefe4f2a2, type: 2}
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
   - m_GUID: 15c147dcae713c04e9106a808560386b
     m_Address: Socks
     m_ReadOnly: 0
     m_SerializedLabels:
     - event
-    m_MainAsset: {fileID: 11400000, guid: 15c147dcae713c04e9106a808560386b, type: 2}
-    m_TargetAsset: {fileID: 11400000, guid: 15c147dcae713c04e9106a808560386b, type: 2}
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
   - m_GUID: 66e994c2afb9a0743b2e39031fd8b32e
     m_Address: Stone Cold Killers
     m_ReadOnly: 0
     m_SerializedLabels:
     - event
-    m_MainAsset: {fileID: 11400000, guid: 66e994c2afb9a0743b2e39031fd8b32e, type: 2}
-    m_TargetAsset: {fileID: 11400000, guid: 66e994c2afb9a0743b2e39031fd8b32e, type: 2}
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
   - m_GUID: d770cf52d81019340b3997844e7d72b9
     m_Address: Street Urchins
     m_ReadOnly: 0
     m_SerializedLabels:
     - event
-    m_MainAsset: {fileID: 11400000, guid: d770cf52d81019340b3997844e7d72b9, type: 2}
-    m_TargetAsset: {fileID: 11400000, guid: d770cf52d81019340b3997844e7d72b9, type: 2}
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
   - m_GUID: a258c55a1dbf67248be5f525b82b9915
     m_Address: Tailor 1
     m_ReadOnly: 0
     m_SerializedLabels:
     - event
-    m_MainAsset: {fileID: 11400000, guid: a258c55a1dbf67248be5f525b82b9915, type: 2}
-    m_TargetAsset: {fileID: 11400000, guid: a258c55a1dbf67248be5f525b82b9915, type: 2}
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
   - m_GUID: e829e6c757a154a4b936d812a520b0cc
     m_Address: Tailor 2
     m_ReadOnly: 0
     m_SerializedLabels:
     - event
-    m_MainAsset: {fileID: 11400000, guid: e829e6c757a154a4b936d812a520b0cc, type: 2}
-    m_TargetAsset: {fileID: 11400000, guid: e829e6c757a154a4b936d812a520b0cc, type: 2}
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
   - m_GUID: 7de89236f47db4a42aabddfccb323bc9
     m_Address: The Chosen One (of Many)
     m_ReadOnly: 0
     m_SerializedLabels:
     - event
-    m_MainAsset: {fileID: 11400000, guid: 7de89236f47db4a42aabddfccb323bc9, type: 2}
-    m_TargetAsset: {fileID: 11400000, guid: 7de89236f47db4a42aabddfccb323bc9, type: 2}
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
   - m_GUID: 89e2654fb9dee1c468b7d798c18250a1
     m_Address: The Greatest Adventurers in the World
     m_ReadOnly: 0
     m_SerializedLabels:
     - event
-    m_MainAsset: {fileID: 11400000, guid: 89e2654fb9dee1c468b7d798c18250a1, type: 2}
-    m_TargetAsset: {fileID: 11400000, guid: 89e2654fb9dee1c468b7d798c18250a1, type: 2}
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
   - m_GUID: 57b9021874f1fd845b1f462ae180489a
     m_Address: Time Being
     m_ReadOnly: 0
     m_SerializedLabels:
     - event
-    m_MainAsset: {fileID: 11400000, guid: 57b9021874f1fd845b1f462ae180489a, type: 2}
-    m_TargetAsset: {fileID: 11400000, guid: 57b9021874f1fd845b1f462ae180489a, type: 2}
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
   - m_GUID: e4cb7e4567bec944e8ce975b7b569415
     m_Address: Touch of Gold
     m_ReadOnly: 0
     m_SerializedLabels:
     - event
-    m_MainAsset: {fileID: 11400000, guid: e4cb7e4567bec944e8ce975b7b569415, type: 2}
-    m_TargetAsset: {fileID: 11400000, guid: e4cb7e4567bec944e8ce975b7b569415, type: 2}
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
   - m_GUID: 053dcedc91c085d4d873fcd0d14cacd2
     m_Address: Twin
     m_ReadOnly: 0
     m_SerializedLabels:
     - event
-    m_MainAsset: {fileID: 11400000, guid: 053dcedc91c085d4d873fcd0d14cacd2, type: 2}
-    m_TargetAsset: {fileID: 11400000, guid: 053dcedc91c085d4d873fcd0d14cacd2, type: 2}
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
   - m_GUID: 794df596c1501fc4e8dbc76d0fd966c5
     m_Address: Vampires
     m_ReadOnly: 0
     m_SerializedLabels:
     - event
-    m_MainAsset: {fileID: 11400000, guid: 794df596c1501fc4e8dbc76d0fd966c5, type: 2}
-    m_TargetAsset: {fileID: 11400000, guid: 794df596c1501fc4e8dbc76d0fd966c5, type: 2}
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
   - m_GUID: a4727774c1dcdf44eb5638e379bbe2d9
     m_Address: Werewolf 1
     m_ReadOnly: 0
     m_SerializedLabels:
     - event
-    m_MainAsset: {fileID: 11400000, guid: a4727774c1dcdf44eb5638e379bbe2d9, type: 2}
-    m_TargetAsset: {fileID: 11400000, guid: a4727774c1dcdf44eb5638e379bbe2d9, type: 2}
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
   - m_GUID: 7834f964623290747b6e448ca7bef246
     m_Address: Werewolf 2
     m_ReadOnly: 0
     m_SerializedLabels:
     - event
-    m_MainAsset: {fileID: 11400000, guid: 7834f964623290747b6e448ca7bef246, type: 2}
-    m_TargetAsset: {fileID: 11400000, guid: 7834f964623290747b6e448ca7bef246, type: 2}
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
   - m_GUID: 05ea716213229cb428b9b74753ded8ae
     m_Address: Werewolf 3
     m_ReadOnly: 0
     m_SerializedLabels:
     - event
-    m_MainAsset: {fileID: 11400000, guid: 05ea716213229cb428b9b74753ded8ae, type: 2}
-    m_TargetAsset: {fileID: 11400000, guid: 05ea716213229cb428b9b74753ded8ae, type: 2}
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
   - m_GUID: 69f2d6eb720a0f04e9d58908a3cd2339
     m_Address: Werewolf 4
     m_ReadOnly: 0
     m_SerializedLabels:
     - event
-    m_MainAsset: {fileID: 11400000, guid: 69f2d6eb720a0f04e9d58908a3cd2339, type: 2}
-    m_TargetAsset: {fileID: 11400000, guid: 69f2d6eb720a0f04e9d58908a3cd2339, type: 2}
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
   - m_GUID: 24fff7c8e3001b245bd1734185b62da8
     m_Address: Wild Boars
     m_ReadOnly: 0
     m_SerializedLabels:
     - event
-    m_MainAsset: {fileID: 11400000, guid: 24fff7c8e3001b245bd1734185b62da8, type: 2}
-    m_TargetAsset: {fileID: 11400000, guid: 24fff7c8e3001b245bd1734185b62da8, type: 2}
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
   - m_GUID: 042694d014b80a944b03f0c732410970
     m_Address: Zombos
     m_ReadOnly: 0
     m_SerializedLabels:
     - event
-    m_MainAsset: {fileID: 11400000, guid: 042694d014b80a944b03f0c732410970, type: 2}
-    m_TargetAsset: {fileID: 11400000, guid: 042694d014b80a944b03f0c732410970, type: 2}
-  - m_GUID: 81d6eacaffc06384099c22361ee7f1a1
-    m_Address: A1 - Completed Event
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 46e2d63465d326e488d26d8945911532
+    m_Address: Attract Outriders Added
     m_ReadOnly: 0
     m_SerializedLabels:
     - event
-    m_MainAsset: {fileID: 11400000, guid: 81d6eacaffc06384099c22361ee7f1a1, type: 2}
-    m_TargetAsset: {fileID: 11400000, guid: 81d6eacaffc06384099c22361ee7f1a1, type: 2}
-  - m_GUID: a0633d079368f2f4ea4f4b1e60f84e71
-    m_Address: A1 - Added Event
+    m_MainAsset: {fileID: 11400000, guid: 46e2d63465d326e488d26d8945911532, type: 2}
+    m_TargetAsset: {fileID: 11400000, guid: 46e2d63465d326e488d26d8945911532, type: 2}
+  - m_GUID: 184f1e94972f25d40bbe4acd6dca3bd6
+    m_Address: Attract Arcanists Completed
     m_ReadOnly: 0
     m_SerializedLabels:
     - event
-    m_MainAsset: {fileID: 11400000, guid: a0633d079368f2f4ea4f4b1e60f84e71, type: 2}
-    m_TargetAsset: {fileID: 11400000, guid: a0633d079368f2f4ea4f4b1e60f84e71, type: 2}
-  - m_GUID: 6bf9c78149fb38448af78c5228674712
-    m_Address: A2 - Added Event
+    m_MainAsset: {fileID: 11400000, guid: 184f1e94972f25d40bbe4acd6dca3bd6, type: 2}
+    m_TargetAsset: {fileID: 11400000, guid: 184f1e94972f25d40bbe4acd6dca3bd6, type: 2}
+  - m_GUID: 24b9fda8584c44f43b97a0c46dada3ef
+    m_Address: Attract Brawlers Added
     m_ReadOnly: 0
     m_SerializedLabels:
     - event
-    m_MainAsset: {fileID: 11400000, guid: 6bf9c78149fb38448af78c5228674712, type: 2}
-    m_TargetAsset: {fileID: 11400000, guid: 6bf9c78149fb38448af78c5228674712, type: 2}
-  - m_GUID: 69afd14cbf4971b4cb617e51605b4a9a
-    m_Address: A2 - Completed Event
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 134116aaea3b35848a93bdb57c75ae45
+    m_Address: Attract Diviners Added
     m_ReadOnly: 0
     m_SerializedLabels:
     - event
-    m_MainAsset: {fileID: 11400000, guid: 69afd14cbf4971b4cb617e51605b4a9a, type: 2}
-    m_TargetAsset: {fileID: 11400000, guid: 69afd14cbf4971b4cb617e51605b4a9a, type: 2}
+    m_MainAsset: {fileID: 11400000, guid: 134116aaea3b35848a93bdb57c75ae45, type: 2}
+    m_TargetAsset: {fileID: 11400000, guid: 134116aaea3b35848a93bdb57c75ae45, type: 2}
+  - m_GUID: a25ea14a13f94a5468534d3cacbd6e83
+    m_Address: Attract Performers Added
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - event
+    m_MainAsset: {fileID: 11400000, guid: a25ea14a13f94a5468534d3cacbd6e83, type: 2}
+    m_TargetAsset: {fileID: 11400000, guid: a25ea14a13f94a5468534d3cacbd6e83, type: 2}
+  - m_GUID: 647336f3cdf37e745879fce49c4e35e8
+    m_Address: Attract Outriders Completed
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - event
+    m_MainAsset: {fileID: 11400000, guid: 647336f3cdf37e745879fce49c4e35e8, type: 2}
+    m_TargetAsset: {fileID: 11400000, guid: 647336f3cdf37e745879fce49c4e35e8, type: 2}
+  - m_GUID: 17e6cd24ac79ba44aa3728a842496a09
+    m_Address: Attract Diviners Completed
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - event
+    m_MainAsset: {fileID: 11400000, guid: 17e6cd24ac79ba44aa3728a842496a09, type: 2}
+    m_TargetAsset: {fileID: 11400000, guid: 17e6cd24ac79ba44aa3728a842496a09, type: 2}
+  - m_GUID: e11a8b375fc4ed64cac819e781189f2d
+    m_Address: Attract Brawlers Completed
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - event
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: e310f06d2a5ee2c4d8f579d3e53374ef
+    m_Address: Attract Arcanists Added
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - event
+    m_MainAsset: {fileID: 11400000, guid: e310f06d2a5ee2c4d8f579d3e53374ef, type: 2}
+    m_TargetAsset: {fileID: 11400000, guid: e310f06d2a5ee2c4d8f579d3e53374ef, type: 2}
+  - m_GUID: 299f584d44c7eeb41ae11e9ea05fa16f
+    m_Address: Attract Performers Completed
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - event
+    m_MainAsset: {fileID: 11400000, guid: 299f584d44c7eeb41ae11e9ea05fa16f, type: 2}
+    m_TargetAsset: {fileID: 11400000, guid: 299f584d44c7eeb41ae11e9ea05fa16f, type: 2}
+  - m_GUID: 9d0168a6040e0c643a4fa8fc617287c1
+    m_Address: Build Blacksmiths Added
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - event
+    m_MainAsset: {fileID: 11400000, guid: 9d0168a6040e0c643a4fa8fc617287c1, type: 2}
+    m_TargetAsset: {fileID: 11400000, guid: 9d0168a6040e0c643a4fa8fc617287c1, type: 2}
+  - m_GUID: d2c85892879fa7e4590b718412132f5c
+    m_Address: Build Blacksmiths Completed
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - event
+    m_MainAsset: {fileID: 11400000, guid: d2c85892879fa7e4590b718412132f5c, type: 2}
+    m_TargetAsset: {fileID: 11400000, guid: d2c85892879fa7e4590b718412132f5c, type: 2}
+  - m_GUID: 7387b5525ce610740bbc3c8dcb0f9563
+    m_Address: Build Herbalists Added
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - event
+    m_MainAsset: {fileID: 11400000, guid: 7387b5525ce610740bbc3c8dcb0f9563, type: 2}
+    m_TargetAsset: {fileID: 11400000, guid: 7387b5525ce610740bbc3c8dcb0f9563, type: 2}
+  - m_GUID: 549cb0c804989364689821073981a38d
+    m_Address: Build Herbalists Completed
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - event
+    m_MainAsset: {fileID: 11400000, guid: 549cb0c804989364689821073981a38d, type: 2}
+    m_TargetAsset: {fileID: 11400000, guid: 549cb0c804989364689821073981a38d, type: 2}
+  - m_GUID: a907e068b8619c549bb8a651222f11eb
+    m_Address: Build Libraries Added
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - event
+    m_MainAsset: {fileID: 11400000, guid: a907e068b8619c549bb8a651222f11eb, type: 2}
+    m_TargetAsset: {fileID: 11400000, guid: a907e068b8619c549bb8a651222f11eb, type: 2}
+  - m_GUID: fba33ba8ecaab044a960388c159cb6b1
+    m_Address: Build Libraries Completed
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - event
+    m_MainAsset: {fileID: 11400000, guid: fba33ba8ecaab044a960388c159cb6b1, type: 2}
+    m_TargetAsset: {fileID: 11400000, guid: fba33ba8ecaab044a960388c159cb6b1, type: 2}
+  - m_GUID: bf00bfd3a4b51eb44939500f8e6581b0
+    m_Address: Build Shrines Added
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - event
+    m_MainAsset: {fileID: 11400000, guid: bf00bfd3a4b51eb44939500f8e6581b0, type: 2}
+    m_TargetAsset: {fileID: 11400000, guid: bf00bfd3a4b51eb44939500f8e6581b0, type: 2}
+  - m_GUID: 480d8349265430d4c8715b6be6f64005
+    m_Address: Build Shrines Completed
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - event
+    m_MainAsset: {fileID: 11400000, guid: 480d8349265430d4c8715b6be6f64005, type: 2}
+    m_TargetAsset: {fileID: 11400000, guid: 480d8349265430d4c8715b6be6f64005, type: 2}
+  - m_GUID: 8465eb7b6d2590948affab7cdc063e14
+    m_Address: Build Taverns Added
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - event
+    m_MainAsset: {fileID: 11400000, guid: 8465eb7b6d2590948affab7cdc063e14, type: 2}
+    m_TargetAsset: {fileID: 11400000, guid: 8465eb7b6d2590948affab7cdc063e14, type: 2}
+  - m_GUID: e8aa31735ee725249ae3d008ac3d1500
+    m_Address: Build Taverns Completed
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - event
+    m_MainAsset: {fileID: 11400000, guid: e8aa31735ee725249ae3d008ac3d1500, type: 2}
+    m_TargetAsset: {fileID: 11400000, guid: e8aa31735ee725249ae3d008ac3d1500, type: 2}
   m_ReadOnly: 0
   m_Settings: {fileID: 11400000, guid: 1233d70b257eca445aaa90fe3c55bb94, type: 2}
   m_SchemaSet:

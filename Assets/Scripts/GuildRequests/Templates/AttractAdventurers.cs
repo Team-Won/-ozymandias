@@ -1,7 +1,7 @@
 ﻿using Adventurers;
 using UnityEngine;
 
-namespace GuildRequests
+namespace GuildRequests.Templates
 {
     [CreateAssetMenu(fileName = "Attract Adventurers", menuName = "Requests/Attract Adventurers")]
     public sealed class AttractAdventurers : Request

@@ -1,0 +1,44 @@
+﻿[
+  {
+    "name": "Test 1",
+    "headline": "",
+    "article": "",
+    "outcomes": [
+      {
+        "type": "ChainEvent",
+        "config": {
+          "event": {
+            "name": "Test 2",
+            "headline": "",
+            "article": "",
+            "choices": [
+              {
+                "name": "Choice 1",
+                "outcomes": [
+                  {
+                    "type": "ChainEvent",
+                    "nextName": "Test 3"
+                  }
+                ]
+              },
+              {
+                "name": "Choice 2",
+                "outcomes": [
+                  {
+                    "type": "FlavourText",
+                    "customDescription": "Flavour Text!"
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      }
+    ]
+  },
+  {
+    "name": "Test 3",
+    "headliner": "",
+    "article": ""
+  }
+]

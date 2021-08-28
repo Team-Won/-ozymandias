@@ -17,34 +17,76 @@ MonoBehaviour:
     m_SerializedData: []
   m_GUID: 72b844d30f9589e43b86cfc41569b9ec
   m_SerializeEntries:
-  - m_GUID: 831eddaafdf8d0541a57157eeb09b50c
-    m_Address: B1 - Request
+  - m_GUID: 6d9275b3c0b2b8949907948640347cda
+    m_Address: Attract Brawlers Request
     m_ReadOnly: 0
     m_SerializedLabels:
     - request
-    m_MainAsset: {fileID: 11400000, guid: 831eddaafdf8d0541a57157eeb09b50c, type: 2}
-    m_TargetAsset: {fileID: 11400000, guid: 831eddaafdf8d0541a57157eeb09b50c, type: 2}
-  - m_GUID: e989cecb036aa684287adf3c4c407771
-    m_Address: B2 - Request
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: db1bf8933b3bf1a40ae2a89b073c33c7
+    m_Address: Attract Outriders Request
     m_ReadOnly: 0
     m_SerializedLabels:
     - request
-    m_MainAsset: {fileID: 11400000, guid: e989cecb036aa684287adf3c4c407771, type: 2}
-    m_TargetAsset: {fileID: 11400000, guid: e989cecb036aa684287adf3c4c407771, type: 2}
-  - m_GUID: f8d547482908432438100e2fcd121fd5
-    m_Address: A2 - Request
+    m_MainAsset: {fileID: 11400000, guid: db1bf8933b3bf1a40ae2a89b073c33c7, type: 2}
+    m_TargetAsset: {fileID: 11400000, guid: db1bf8933b3bf1a40ae2a89b073c33c7, type: 2}
+  - m_GUID: e756a3dfbfb91d04f9c2a9c997dc919e
+    m_Address: Attract Performers Request
     m_ReadOnly: 0
     m_SerializedLabels:
     - request
-    m_MainAsset: {fileID: 11400000, guid: f8d547482908432438100e2fcd121fd5, type: 2}
-    m_TargetAsset: {fileID: 11400000, guid: f8d547482908432438100e2fcd121fd5, type: 2}
-  - m_GUID: 04e6902942b6db248be8df7f56d0fd20
-    m_Address: A1 - Request
+    m_MainAsset: {fileID: 11400000, guid: e756a3dfbfb91d04f9c2a9c997dc919e, type: 2}
+    m_TargetAsset: {fileID: 11400000, guid: e756a3dfbfb91d04f9c2a9c997dc919e, type: 2}
+  - m_GUID: 54a03d06aa4c4c243a0d8d029e2d1b5d
+    m_Address: Build Herbalists Request
     m_ReadOnly: 0
     m_SerializedLabels:
     - request
-    m_MainAsset: {fileID: 11400000, guid: 04e6902942b6db248be8df7f56d0fd20, type: 2}
-    m_TargetAsset: {fileID: 11400000, guid: 04e6902942b6db248be8df7f56d0fd20, type: 2}
+    m_MainAsset: {fileID: 11400000, guid: 54a03d06aa4c4c243a0d8d029e2d1b5d, type: 2}
+    m_TargetAsset: {fileID: 11400000, guid: 54a03d06aa4c4c243a0d8d029e2d1b5d, type: 2}
+  - m_GUID: c4669a313d48d074dbf2ac5c4bcf9c2c
+    m_Address: Build Shrines Request
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - request
+    m_MainAsset: {fileID: 11400000, guid: c4669a313d48d074dbf2ac5c4bcf9c2c, type: 2}
+    m_TargetAsset: {fileID: 11400000, guid: c4669a313d48d074dbf2ac5c4bcf9c2c, type: 2}
+  - m_GUID: 1c8dd227a8268d5429465e6a48667849
+    m_Address: Attract Diviners Request
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - request
+    m_MainAsset: {fileID: 11400000, guid: 1c8dd227a8268d5429465e6a48667849, type: 2}
+    m_TargetAsset: {fileID: 11400000, guid: 1c8dd227a8268d5429465e6a48667849, type: 2}
+  - m_GUID: bd063519d3bf6b5489a19a77990d77e0
+    m_Address: Build Libraries Request
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - request
+    m_MainAsset: {fileID: 11400000, guid: bd063519d3bf6b5489a19a77990d77e0, type: 2}
+    m_TargetAsset: {fileID: 11400000, guid: bd063519d3bf6b5489a19a77990d77e0, type: 2}
+  - m_GUID: 455a5a26b89a8794795df0c884421db1
+    m_Address: Attract Arcanists Request
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - request
+    m_MainAsset: {fileID: 11400000, guid: 455a5a26b89a8794795df0c884421db1, type: 2}
+    m_TargetAsset: {fileID: 11400000, guid: 455a5a26b89a8794795df0c884421db1, type: 2}
+  - m_GUID: 18c61c93f4efe8e46945228c64247add
+    m_Address: Build Blacksmiths Request
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - request
+    m_MainAsset: {fileID: 11400000, guid: 18c61c93f4efe8e46945228c64247add, type: 2}
+    m_TargetAsset: {fileID: 11400000, guid: 18c61c93f4efe8e46945228c64247add, type: 2}
+  - m_GUID: ef85964ee1e242744891b1b645eeb4aa
+    m_Address: Build Taverns Request
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - request
+    m_MainAsset: {fileID: 11400000, guid: ef85964ee1e242744891b1b645eeb4aa, type: 2}
+    m_TargetAsset: {fileID: 11400000, guid: ef85964ee1e242744891b1b645eeb4aa, type: 2}
   m_ReadOnly: 0
   m_Settings: {fileID: 11400000, guid: 1233d70b257eca445aaa90fe3c55bb94, type: 2}
   m_SchemaSet:

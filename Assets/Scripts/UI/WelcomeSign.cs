@@ -15,7 +15,7 @@ namespace UI
 
         protected override void UpdateUi()
         {
-            _textMesh.text = SignContent + Manager.Adventurers.Count.ToString("00");
+            _textMesh.text = SignContent + (Manager.Adventurers.Count > 0 ? Manager.Adventurers.Count.ToString() : "None");
         }
     }
 }

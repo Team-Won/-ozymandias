@@ -7,5 +7,6 @@ namespace Events
     public class Choice : ScriptableObject
     {
         public List<Outcome> outcomes = new List<Outcome>();
+        public int cost;
     }
 }

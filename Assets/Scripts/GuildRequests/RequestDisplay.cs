@@ -1,5 +1,6 @@
 using System;
 using DG.Tweening;
+using GuildRequests.Templates;
 using TMPro;
 using UI;
 using UnityEngine;

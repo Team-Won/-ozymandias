@@ -20,13 +20,13 @@ namespace Events.Outcomes
             return false;
         }
     
-        public static string Execute(List<Outcome> outcomes, bool fromChoice=false)
+        public static string Execute(List<Outcome> outcomes)
         {
             string description = "";
         
             foreach (Outcome outcome in outcomes)
             {
-                bool res = outcome is ModiferAdded ? outcome.Execute(fromChoice) : outcome.Execute();
+                bool res = outcome.Execute();
             
                 if (res && outcome.Description != "") description += "• " + outcome.Description + "\n";
             }

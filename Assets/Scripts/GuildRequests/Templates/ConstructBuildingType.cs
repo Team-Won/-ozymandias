@@ -1,8 +1,10 @@
-﻿using Buildings;
+﻿using System;
+using Buildings;
+using Events;
 using UnityEngine;
 using Utilities;
 
-namespace GuildRequests
+namespace GuildRequests.Templates
 {
     [CreateAssetMenu(fileName = "Construct Building Type", menuName = "Requests/Construct Building Type")]
     public sealed class ConstructBuildingType : Request
@@ -24,6 +26,11 @@ namespace GuildRequests
         private void CheckBuilt(Building building)
         {
             if (building.type == buildingType) completed++;
+        }
+        
+        public override void Configure(EventCreator.RequestConfig config)
+        {
+            buildingType = config.buildingType;
         }
     }
 }
