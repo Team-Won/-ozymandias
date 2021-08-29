@@ -17,6 +17,7 @@ namespace Achievements
         public string title;
         public Sprite icon;
         public int points;
+        public int targetPoints;
         [TextArea] public string lockedDescription, unlockedDescription;
     }
 
@@ -26,7 +27,8 @@ namespace Achievements
         [SerializeField] private Transform achievementDisplayContainer;
         [SerializeField] private List<AchievementConfig> achievementConfigs;
         private List<Achievement> Unlocked { get; set; }
-
+        private SteamAchievementManager steamManager = new SteamAchievementManager();
+        
         //[SerializeField] private Color lockedColor, unlockedColor;
         //[SerializeField] private Slider progressBar;
         //[SerializeField] private Image villageBadge, cityBadge, kingdomBadge;
@@ -34,7 +36,10 @@ namespace Achievements
 
         public void Unlock(Achievement achievement)
         {
-            if (Unlocked.Contains(achievement)) return;
+            steamManager.SetOneTimeAchievement(achievement);
+            steamManager.SubmitStats();
+            
+            //if (Unlocked.Contains(achievement)) return;
             //TODO: Unlock Sound Effect
             //TODO: Save 
         }
