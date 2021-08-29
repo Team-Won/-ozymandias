@@ -154,6 +154,8 @@ namespace Buildings
             Selected = Deselected;
 
             OnBuildingPlaced?.Invoke();
+            
+            GameManager.Manager.Achievements.Unlock(Achievement.BuildOneBuilding);
         }
 
         private void RightClick()

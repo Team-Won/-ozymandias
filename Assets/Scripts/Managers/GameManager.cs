@@ -4,6 +4,7 @@ using GuildFavours;
 using GuildRequests;
 using Inputs;
 using NaughtyAttributes;
+using Steamworks;
 using Tooltip;
 using UnityEngine;
 using Utilities;
@@ -60,6 +61,7 @@ namespace Managers
         public void Start()
         {
             State.EnterState(GameState.Loading);
+            Achievements.Unlock(Achievement.Test);
         }
 
         public static Action OnUpdateUI;
@@ -80,6 +82,12 @@ namespace Managers
         public void Screenshot()
         {
             ScreenCapture.CaptureScreenshot($"FTRM_{DateTime.Now:dd-MM-yyyy-hh-mm-ss}.png");
+        }
+        
+        [Button("Reset Achievements")]
+        public void ResetAchievements()
+        {
+            SteamUserStats.ResetAllStats(true);
         }
         
         [Button("Extra Wealth")]

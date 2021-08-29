@@ -125,11 +125,11 @@
     public enum Achievement
     {
         Test = 0,
+        BuildOneBuilding = 1
     }
     
     public enum Upgrade
     {
         Test = 0,
-        
     }
 }
