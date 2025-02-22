@@ -2271,13 +2271,13 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: 'Quests can be completed to clear enemy camps, or to progress a story and
-    discovering buildings.Enemy camps grow each day, increasing the threat and number
-    of adventurers needed to clear.
+  m_text: 'Quests can be completed to clear enemy camps, or to progress a story.
+    Act fast, as enemy camps grow each day, increasing the threat and number of adventurers
+    needed to clear.
 
 
-    <i>Note:</i> Adventurers on quests don''t
-    count towards your defence until they return.'
+    <i>Note:</i> Adventurers on quests don''t count towards
+    your defence until they return, so plan carefully before you send them out!'
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 81dc6c1fe7340e14388fde9997aeffaf, type: 2}
   m_sharedMaterial: {fileID: 1112195278679108204, guid: 81dc6c1fe7340e14388fde9997aeffaf,
@@ -2319,7 +2319,7 @@ MonoBehaviour:
   m_wordSpacing: 0
   m_lineSpacing: 0
   m_lineSpacingMax: 0
-  m_paragraphSpacing: 0
+  m_paragraphSpacing: -15
   m_charWidthMaxAdj: 0
   m_enableWordWrapping: 1
   m_wordWrappingRatios: 0.4
@@ -4460,7 +4460,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0.5}
   m_AnchorMax: {x: 0, y: 0.5}
-  m_AnchoredPosition: {x: 0, y: 0}
+  m_AnchoredPosition: {x: 0, y: 10}
   m_SizeDelta: {x: 100, y: 100}
   m_Pivot: {x: 0, y: 0.5}
 --- !u!222 &1048395677652657972
@@ -4647,9 +4647,8 @@ MonoBehaviour:
     you can cash in for permanent bonuses and abilities.
 
 
-    Cards unlocked by
-    completing stories reset every game, but can be rediscovered by clearing ruins
-    up to your level in the centre upgrade.'
+    Buildings unlocked
+    by completing stories reset every game, but can be rediscovered by clearing ruins.'
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 81dc6c1fe7340e14388fde9997aeffaf, type: 2}
   m_sharedMaterial: {fileID: 1112195278679108204, guid: 81dc6c1fe7340e14388fde9997aeffaf,
@@ -4685,13 +4684,13 @@ MonoBehaviour:
   m_fontSizeMax: 72
   m_fontStyle: 0
   m_HorizontalAlignment: 1
-  m_VerticalAlignment: 512
+  m_VerticalAlignment: 256
   m_textAlignment: 65535
   m_characterSpacing: 0
   m_wordSpacing: 0
   m_lineSpacing: 0
   m_lineSpacingMax: 0
-  m_paragraphSpacing: 0
+  m_paragraphSpacing: -15
   m_charWidthMaxAdj: 0
   m_enableWordWrapping: 1
   m_wordWrappingRatios: 0.4
@@ -5366,14 +5365,13 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: 'Each morning of a new turn, you will be greeted by a newspaper, with articles
-    describing what''s going on in your town.
+  m_text: 'Each morning of a new turn, you will be greeted by a newspaper, with reports
+    on activity in your town.
 
 
-    Some of these will have effects
-    on the town, such as an adventurer joining, a new threat, or modifiers to your
-    towns stats. Stories will start to unfold over a few turns, and will reward diligent
-    readers.'
+    Some reports will include effects, such as joining
+    adventurers, a new threat, or modifiers to your towns wellbeing. Stories will
+    start to unfold over a few turns, and will reward diligent readers.'
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 81dc6c1fe7340e14388fde9997aeffaf, type: 2}
   m_sharedMaterial: {fileID: 1112195278679108204, guid: 81dc6c1fe7340e14388fde9997aeffaf,
@@ -5415,7 +5413,7 @@ MonoBehaviour:
   m_wordSpacing: 0
   m_lineSpacing: 0
   m_lineSpacingMax: 0
-  m_paragraphSpacing: 0
+  m_paragraphSpacing: -15
   m_charWidthMaxAdj: 0
   m_enableWordWrapping: 1
   m_wordWrappingRatios: 0.4
